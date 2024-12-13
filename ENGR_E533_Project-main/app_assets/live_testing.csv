@@ -1,0 +1,5 @@
+﻿Image,Image_Path,Prediction,Probability,Price_per_unit_usd,Unit
+1,fruits-360/Training/Apple 6/r0_0_100.jpg,Apple,0.9,1.25,Count
+2,fruits-360/Training/Apple Crimson Snow 1/0_100.jpg,Apple,0.8,0.9,Count
+3,fruits-360/Training/Pear 1/0_100.jpg,Pear,1,1.3,Count
+4,fruits-360/Training/Banana 1/234_100.jpg,Banana,0.95,2,Lb

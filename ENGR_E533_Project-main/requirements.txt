@@ -1,0 +1,15 @@
+streamlit
+streamlit_extras
+watchdog
+numpy
+pandas
+matplotlib
+torch
+torchvision
+black
+pylint
+setuptools
+notebook
+tqdm
+torchinfo
+scikit-learn

@@ -1,0 +1,1411 @@
+Image,Image_Path,Label,Prediction,Probability,Price_per_unit_usd,Unit
+1,fruits-360/Test/Apple 6/r0_139_100.jpg,Apple 6,Apple 6,1,1.44,Lb
+2,fruits-360/Test/Apple 6/r1_199_100.jpg,Apple 6,Apple 6,1,1.44,Lb
+3,fruits-360/Test/Apple 6/r1_39_100.jpg,Apple 6,Apple 6,1,1.44,Lb
+4,fruits-360/Test/Apple 6/r1_279_100.jpg,Apple 6,Apple 6,1,1.44,Lb
+5,fruits-360/Test/Apple 6/r1_19_100.jpg,Apple 6,Apple 6,1,1.44,Lb
+6,fruits-360/Test/Apple 6/r1_299_100.jpg,Apple 6,Apple 6,1,1.44,Lb
+7,fruits-360/Test/Apple 6/r0_151_100.jpg,Apple 6,Apple 6,1,1.44,Lb
+8,fruits-360/Test/Apple 6/r0_51_100.jpg,Apple 6,Apple 6,1,1.44,Lb
+9,fruits-360/Test/Apple 6/r0_3_100.jpg,Apple 6,Apple 6,1,1.44,Lb
+10,fruits-360/Test/Apple 6/r1_15_100.jpg,Apple 6,Apple 6,1,1.44,Lb
+11,fruits-360/Test/Apple Braeburn 1/82_100.jpg,Apple Braeburn 1,Apple Braeburn 1,1,1.44,Lb
+12,fruits-360/Test/Apple Braeburn 1/97_100.jpg,Apple Braeburn 1,Apple Braeburn 1,1,1.44,Lb
+13,fruits-360/Test/Apple Braeburn 1/r_6_100.jpg,Apple Braeburn 1,Apple Braeburn 1,1,1.44,Lb
+14,fruits-360/Test/Apple Braeburn 1/47_100.jpg,Apple Braeburn 1,Apple Braeburn 1,1,1.44,Lb
+15,fruits-360/Test/Apple Braeburn 1/64_100.jpg,Apple Braeburn 1,Apple Braeburn 1,1,1.44,Lb
+16,fruits-360/Test/Apple Braeburn 1/r_53_100.jpg,Apple Braeburn 1,Nectarine 1,0.92968899,1.44,Lb
+17,fruits-360/Test/Apple Braeburn 1/56_100.jpg,Apple Braeburn 1,Apple Braeburn 1,1,1.44,Lb
+18,fruits-360/Test/Apple Braeburn 1/76_100.jpg,Apple Braeburn 1,Apple Braeburn 1,1,1.44,Lb
+19,fruits-360/Test/Apple Braeburn 1/98_100.jpg,Apple Braeburn 1,Apple Braeburn 1,1,1.44,Lb
+20,fruits-360/Test/Apple Braeburn 1/94_100.jpg,Apple Braeburn 1,Apple Braeburn 1,1,1.44,Lb
+21,fruits-360/Test/Apple Crimson Snow 1/r_48_100.jpg,Apple Crimson Snow 1,Apple Crimson Snow 1,1,1.44,Lb
+22,fruits-360/Test/Apple Crimson Snow 1/97_100.jpg,Apple Crimson Snow 1,Apple Crimson Snow 1,0.999996424,1.44,Lb
+23,fruits-360/Test/Apple Crimson Snow 1/155_100.jpg,Apple Crimson Snow 1,Apple Crimson Snow 1,0.999979496,1.44,Lb
+24,fruits-360/Test/Apple Crimson Snow 1/r_113_100.jpg,Apple Crimson Snow 1,Apple Crimson Snow 1,1,1.44,Lb
+25,fruits-360/Test/Apple Crimson Snow 1/144_100.jpg,Apple Crimson Snow 1,Apple Crimson Snow 1,0.999999642,1.44,Lb
+26,fruits-360/Test/Apple Crimson Snow 1/107_100.jpg,Apple Crimson Snow 1,Apple Crimson Snow 1,0.999998093,1.44,Lb
+27,fruits-360/Test/Apple Crimson Snow 1/131_100.jpg,Apple Crimson Snow 1,Apple Crimson Snow 1,0.669953763,1.44,Lb
+28,fruits-360/Test/Apple Crimson Snow 1/r_116_100.jpg,Apple Crimson Snow 1,Apple Crimson Snow 1,1,1.44,Lb
+29,fruits-360/Test/Apple Crimson Snow 1/r_111_100.jpg,Apple Crimson Snow 1,Apple Crimson Snow 1,1,1.44,Lb
+30,fruits-360/Test/Apple Crimson Snow 1/113_100.jpg,Apple Crimson Snow 1,Apple Crimson Snow 1,1,1.44,Lb
+31,fruits-360/Test/Apple Golden 1/77_100.jpg,Apple Golden 1,Apple Golden 1,1,1.44,Lb
+32,fruits-360/Test/Apple Golden 1/r_52_100.jpg,Apple Golden 1,Apple Golden 1,0.999926209,1.44,Lb
+33,fruits-360/Test/Apple Golden 1/r_41_100.jpg,Apple Golden 1,Apple Golden 1,1,1.44,Lb
+34,fruits-360/Test/Apple Golden 1/r_40_100.jpg,Apple Golden 1,Apple Golden 1,1,1.44,Lb
+35,fruits-360/Test/Apple Golden 1/76_100.jpg,Apple Golden 1,Apple Golden 1,1,1.44,Lb
+36,fruits-360/Test/Apple Golden 1/r_96_100.jpg,Apple Golden 1,Apple Golden 1,1,1.44,Lb
+37,fruits-360/Test/Apple Golden 1/r_58_100.jpg,Apple Golden 1,Apple Golden 1,0.879508615,1.44,Lb
+38,fruits-360/Test/Apple Golden 1/r_70_100.jpg,Apple Golden 1,Apple Red Yellow 1,0.480432987,1.44,Lb
+39,fruits-360/Test/Apple Golden 1/102_100.jpg,Apple Golden 1,Apple Golden 1,0.999983549,1.44,Lb
+40,fruits-360/Test/Apple Golden 1/r_85_100.jpg,Apple Golden 1,Grapefruit Pink 1,0.628651738,1.44,Lb
+41,fruits-360/Test/Apple Golden 2/53_100.jpg,Apple Golden 2,Apple Golden 2,1,1.44,Lb
+42,fruits-360/Test/Apple Golden 2/r_70_100.jpg,Apple Golden 2,Apple Golden 2,1,1.44,Lb
+43,fruits-360/Test/Apple Golden 2/69_100.jpg,Apple Golden 2,Apple Golden 2,1,1.44,Lb
+44,fruits-360/Test/Apple Golden 2/93_100.jpg,Apple Golden 2,Apple Golden 2,1,1.44,Lb
+45,fruits-360/Test/Apple Golden 2/88_100.jpg,Apple Golden 2,Apple Golden 2,1,1.44,Lb
+46,fruits-360/Test/Apple Golden 2/96_100.jpg,Apple Golden 2,Apple Golden 2,1,1.44,Lb
+47,fruits-360/Test/Apple Golden 2/327_100.jpg,Apple Golden 2,Apple Golden 2,1,1.44,Lb
+48,fruits-360/Test/Apple Golden 2/r_323_100.jpg,Apple Golden 2,Apple Golden 2,1,1.44,Lb
+49,fruits-360/Test/Apple Golden 2/67_100.jpg,Apple Golden 2,Apple Golden 2,1,1.44,Lb
+50,fruits-360/Test/Apple Golden 2/r_73_100.jpg,Apple Golden 2,Apple Golden 2,1,1.44,Lb
+51,fruits-360/Test/Apple Golden 3/r_37_100.jpg,Apple Golden 3,Apple Golden 3,1,1.44,Lb
+52,fruits-360/Test/Apple Golden 3/r_49_100.jpg,Apple Golden 3,Apple Golden 3,0.999999881,1.44,Lb
+53,fruits-360/Test/Apple Golden 3/40_100.jpg,Apple Golden 3,Apple Golden 3,1,1.44,Lb
+54,fruits-360/Test/Apple Golden 3/r_48_100.jpg,Apple Golden 3,Apple Golden 3,0.998163283,1.44,Lb
+55,fruits-360/Test/Apple Golden 3/r_55_100.jpg,Apple Golden 3,Apple Golden 3,0.999901652,1.44,Lb
+56,fruits-360/Test/Apple Golden 3/r_85_100.jpg,Apple Golden 3,Apple Golden 3,1,1.44,Lb
+57,fruits-360/Test/Apple Golden 3/r_39_100.jpg,Apple Golden 3,Apple Golden 3,1,1.44,Lb
+58,fruits-360/Test/Apple Golden 3/85_100.jpg,Apple Golden 3,Apple Golden 3,1,1.44,Lb
+59,fruits-360/Test/Apple Golden 3/r_33_100.jpg,Apple Golden 3,Apple Golden 3,1,1.44,Lb
+60,fruits-360/Test/Apple Golden 3/r_70_100.jpg,Apple Golden 3,Apple Golden 3,1,1.44,Lb
+61,fruits-360/Test/Apple Granny Smith 1/r_71_100.jpg,Apple Granny Smith 1,Apple Granny Smith 1,0.999853969,1.44,Lb
+62,fruits-360/Test/Apple Granny Smith 1/51_100.jpg,Apple Granny Smith 1,Apple Granny Smith 1,1,1.44,Lb
+63,fruits-360/Test/Apple Granny Smith 1/59_100.jpg,Apple Granny Smith 1,Apple Granny Smith 1,1,1.44,Lb
+64,fruits-360/Test/Apple Granny Smith 1/r_323_100.jpg,Apple Granny Smith 1,Apple Granny Smith 1,1,1.44,Lb
+65,fruits-360/Test/Apple Granny Smith 1/r_81_100.jpg,Apple Granny Smith 1,Apple Granny Smith 1,1,1.44,Lb
+66,fruits-360/Test/Apple Granny Smith 1/r_85_100.jpg,Apple Granny Smith 1,Apple Granny Smith 1,1,1.44,Lb
+67,fruits-360/Test/Apple Granny Smith 1/r_79_100.jpg,Apple Granny Smith 1,Apple Granny Smith 1,1,1.44,Lb
+68,fruits-360/Test/Apple Granny Smith 1/91_100.jpg,Apple Granny Smith 1,Apple Granny Smith 1,1,1.44,Lb
+69,fruits-360/Test/Apple Granny Smith 1/41_100.jpg,Apple Granny Smith 1,Apple Granny Smith 1,1,1.44,Lb
+70,fruits-360/Test/Apple Granny Smith 1/r_65_100.jpg,Apple Granny Smith 1,Apple Granny Smith 1,0.999864936,1.44,Lb
+71,fruits-360/Test/Apple Pink Lady 1/252_100.jpg,Apple Pink Lady 1,Apple Pink Lady 1,1,1.44,Lb
+72,fruits-360/Test/Apple Pink Lady 1/r_236_100.jpg,Apple Pink Lady 1,Apple Pink Lady 1,0.968525648,1.44,Lb
+73,fruits-360/Test/Apple Pink Lady 1/279_100.jpg,Apple Pink Lady 1,Apple Pink Lady 1,1,1.44,Lb
+74,fruits-360/Test/Apple Pink Lady 1/r_59_100.jpg,Apple Pink Lady 1,Apple Pink Lady 1,1,1.44,Lb
+75,fruits-360/Test/Apple Pink Lady 1/r_259_100.jpg,Apple Pink Lady 1,Apple Pink Lady 1,0.999999762,1.44,Lb
+76,fruits-360/Test/Apple Pink Lady 1/r_226_100.jpg,Apple Pink Lady 1,Onion White 1,0.842543721,1.44,Lb
+77,fruits-360/Test/Apple Pink Lady 1/70_100.jpg,Apple Pink Lady 1,Apple Pink Lady 1,1,1.44,Lb
+78,fruits-360/Test/Apple Pink Lady 1/270_100.jpg,Apple Pink Lady 1,Apple Pink Lady 1,1,1.44,Lb
+79,fruits-360/Test/Apple Pink Lady 1/r_249_100.jpg,Apple Pink Lady 1,Apple Pink Lady 1,0.999999881,1.44,Lb
+80,fruits-360/Test/Apple Pink Lady 1/256_100.jpg,Apple Pink Lady 1,Apple Pink Lady 1,1,1.44,Lb
+81,fruits-360/Test/Apple Red 1/69_100.jpg,Apple Red 1,Grape Pink 1,1,1.44,Lb
+82,fruits-360/Test/Apple Red 1/76_100.jpg,Apple Red 1,Grape Pink 1,1,1.44,Lb
+83,fruits-360/Test/Apple Red 1/88_100.jpg,Apple Red 1,Grape Pink 1,0.999949574,1.44,Lb
+84,fruits-360/Test/Apple Red 1/93_100.jpg,Apple Red 1,Apple Red 1,0.94861114,1.44,Lb
+85,fruits-360/Test/Apple Red 1/83_100.jpg,Apple Red 1,Grape Pink 1,1,1.44,Lb
+86,fruits-360/Test/Apple Red 1/61_100.jpg,Apple Red 1,Grape Pink 1,1,1.44,Lb
+87,fruits-360/Test/Apple Red 1/5_100.jpg,Apple Red 1,Apple Red 1,1,1.44,Lb
+88,fruits-360/Test/Apple Red 1/r_65_100.jpg,Apple Red 1,Grape Pink 1,0.968732476,1.44,Lb
+89,fruits-360/Test/Apple Red 1/r_57_100.jpg,Apple Red 1,Apple Red 1,0.568058074,1.44,Lb
+90,fruits-360/Test/Apple Red 1/r_79_100.jpg,Apple Red 1,Grape Pink 1,0.999579251,1.44,Lb
+91,fruits-360/Test/Apple Red 2/r_41_100.jpg,Apple Red 2,Apple Red 2,1,1.44,Lb
+92,fruits-360/Test/Apple Red 2/60_100.jpg,Apple Red 2,Orange 1,0.999999762,1.44,Lb
+93,fruits-360/Test/Apple Red 2/r_89_100.jpg,Apple Red 2,Apple Red 2,0.999309182,1.44,Lb
+94,fruits-360/Test/Apple Red 2/75_100.jpg,Apple Red 2,Orange 1,0.999985456,1.44,Lb
+95,fruits-360/Test/Apple Red 2/61_100.jpg,Apple Red 2,Orange 1,0.999998212,1.44,Lb
+96,fruits-360/Test/Apple Red 2/70_100.jpg,Apple Red 2,Orange 1,0.99976033,1.44,Lb
+97,fruits-360/Test/Apple Red 2/55_100.jpg,Apple Red 2,Orange 1,0.999857068,1.44,Lb
+98,fruits-360/Test/Apple Red 2/r_60_100.jpg,Apple Red 2,Nectarine 1,0.99548775,1.44,Lb
+99,fruits-360/Test/Apple Red 2/76_100.jpg,Apple Red 2,Orange 1,0.997204721,1.44,Lb
+100,fruits-360/Test/Apple Red 2/45_100.jpg,Apple Red 2,Apple Red 2,1,1.44,Lb
+101,fruits-360/Test/Apple Red 3/r_322_100.jpg,Apple Red 3,Apple Red 3,1,1.44,Lb
+102,fruits-360/Test/Apple Red 3/r_34_100.jpg,Apple Red 3,Apple Red 3,1,1.44,Lb
+103,fruits-360/Test/Apple Red 3/92_100.jpg,Apple Red 3,Apple Red 3,0.999999285,1.44,Lb
+104,fruits-360/Test/Apple Red 3/r_6_100.jpg,Apple Red 3,Apple Red 3,1,1.44,Lb
+105,fruits-360/Test/Apple Red 3/6_100.jpg,Apple Red 3,Apple Red 3,1,1.44,Lb
+106,fruits-360/Test/Apple Red 3/58_100.jpg,Apple Red 3,Apple Red 3,1,1.44,Lb
+107,fruits-360/Test/Apple Red 3/49_100.jpg,Apple Red 3,Apple Red 3,1,1.44,Lb
+108,fruits-360/Test/Apple Red 3/r_79_100.jpg,Apple Red 3,Apple Red 3,0.999976039,1.44,Lb
+109,fruits-360/Test/Apple Red 3/r_48_100.jpg,Apple Red 3,Apple Red 3,1,1.44,Lb
+110,fruits-360/Test/Apple Red 3/r_321_100.jpg,Apple Red 3,Apple Red 3,1,1.44,Lb
+111,fruits-360/Test/Apple Red Delicious 1/r_160_100.jpg,Apple Red Delicious 1,Apple Red Delicious 1,1,1.44,Lb
+112,fruits-360/Test/Apple Red Delicious 1/309_100.jpg,Apple Red Delicious 1,Apple Red Delicious 1,1,1.44,Lb
+113,fruits-360/Test/Apple Red Delicious 1/r_175_100.jpg,Apple Red Delicious 1,Apple Red Delicious 1,1,1.44,Lb
+114,fruits-360/Test/Apple Red Delicious 1/r_319_100.jpg,Apple Red Delicious 1,Apple Red Delicious 1,1,1.44,Lb
+115,fruits-360/Test/Apple Red Delicious 1/r_150_100.jpg,Apple Red Delicious 1,Apple Red Delicious 1,1,1.44,Lb
+116,fruits-360/Test/Apple Red Delicious 1/r_288_100.jpg,Apple Red Delicious 1,Apple Red Delicious 1,1,1.44,Lb
+117,fruits-360/Test/Apple Red Delicious 1/172_100.jpg,Apple Red Delicious 1,Apple Red Delicious 1,1,1.44,Lb
+118,fruits-360/Test/Apple Red Delicious 1/18_100.jpg,Apple Red Delicious 1,Apple Red Delicious 1,1,1.44,Lb
+119,fruits-360/Test/Apple Red Delicious 1/r_268_100.jpg,Apple Red Delicious 1,Apple Red Delicious 1,1,1.44,Lb
+120,fruits-360/Test/Apple Red Delicious 1/234_100.jpg,Apple Red Delicious 1,Apple Red Delicious 1,1,1.44,Lb
+121,fruits-360/Test/Apple Red Yellow 1/73_100.jpg,Apple Red Yellow 1,Apple Red Yellow 1,0.99820888,1.44,Lb
+122,fruits-360/Test/Apple Red Yellow 1/69_100.jpg,Apple Red Yellow 1,Apple Red Yellow 1,0.996870697,1.44,Lb
+123,fruits-360/Test/Apple Red Yellow 1/r_5_100.jpg,Apple Red Yellow 1,Apple Red Yellow 1,1,1.44,Lb
+124,fruits-360/Test/Apple Red Yellow 1/r_33_100.jpg,Apple Red Yellow 1,Apple Red Yellow 1,0.997087419,1.44,Lb
+125,fruits-360/Test/Apple Red Yellow 1/r_70_100.jpg,Apple Red Yellow 1,Apple Red Yellow 1,1,1.44,Lb
+126,fruits-360/Test/Apple Red Yellow 1/36_100.jpg,Apple Red Yellow 1,Apple Red Yellow 1,1,1.44,Lb
+127,fruits-360/Test/Apple Red Yellow 1/71_100.jpg,Apple Red Yellow 1,Apple Red Yellow 1,0.906809092,1.44,Lb
+128,fruits-360/Test/Apple Red Yellow 1/r_48_100.jpg,Apple Red Yellow 1,Nectarine 1,0.938552558,1.44,Lb
+129,fruits-360/Test/Apple Red Yellow 1/89_100.jpg,Apple Red Yellow 1,Apple Red Yellow 1,1,1.44,Lb
+130,fruits-360/Test/Apple Red Yellow 1/4_100.jpg,Apple Red Yellow 1,Apple Red Yellow 1,1,1.44,Lb
+131,fruits-360/Test/Apple Red Yellow 2/r2_180_100.jpg,Apple Red Yellow 2,Apple Red Yellow 2,1,1.44,Lb
+132,fruits-360/Test/Apple Red Yellow 2/119_100.jpg,Apple Red Yellow 2,Apple Red Yellow 2,0.999998927,1.44,Lb
+133,fruits-360/Test/Apple Red Yellow 2/135_100.jpg,Apple Red Yellow 2,Apple Red Yellow 2,1,1.44,Lb
+134,fruits-360/Test/Apple Red Yellow 2/r2_209_100.jpg,Apple Red Yellow 2,Apple Red Yellow 2,1,1.44,Lb
+135,fruits-360/Test/Apple Red Yellow 2/116_100.jpg,Apple Red Yellow 2,Apple Red Yellow 2,1,1.44,Lb
+136,fruits-360/Test/Apple Red Yellow 2/r2_169_100.jpg,Apple Red Yellow 2,Apple Red Yellow 2,1,1.44,Lb
+137,fruits-360/Test/Apple Red Yellow 2/133_100.jpg,Apple Red Yellow 2,Apple Red Yellow 2,1,1.44,Lb
+138,fruits-360/Test/Apple Red Yellow 2/r_236_100.jpg,Apple Red Yellow 2,Apple Red Yellow 2,1,1.44,Lb
+139,fruits-360/Test/Apple Red Yellow 2/225_100.jpg,Apple Red Yellow 2,Apple Red Yellow 2,1,1.44,Lb
+140,fruits-360/Test/Apple Red Yellow 2/4_100.jpg,Apple Red Yellow 2,Apple Red Yellow 2,1,1.44,Lb
+141,fruits-360/Test/Apple hit 1/r2_59_100.jpg,Apple hit 1,Apple hit 1,1,1.44,Lb
+142,fruits-360/Test/Apple hit 1/r0_31_100.jpg,Apple hit 1,Apple hit 1,1,1.44,Lb
+143,fruits-360/Test/Apple hit 1/r0_315_100.jpg,Apple hit 1,Apple hit 1,1,1.44,Lb
+144,fruits-360/Test/Apple hit 1/r1_195_100.jpg,Apple hit 1,Apple hit 1,1,1.44,Lb
+145,fruits-360/Test/Apple hit 1/r2_239_100.jpg,Apple hit 1,Apple hit 1,1,1.44,Lb
+146,fruits-360/Test/Apple hit 1/r2_151_100.jpg,Apple hit 1,Apple hit 1,1,1.44,Lb
+147,fruits-360/Test/Apple hit 1/r2_63_100.jpg,Apple hit 1,Apple hit 1,1,1.44,Lb
+148,fruits-360/Test/Apple hit 1/r1_3_100.jpg,Apple hit 1,Apple hit 1,1,1.44,Lb
+149,fruits-360/Test/Apple hit 1/r1_15_100.jpg,Apple hit 1,Apple hit 1,1,1.44,Lb
+150,fruits-360/Test/Apple hit 1/r1_11_100.jpg,Apple hit 1,Apple hit 1,1,1.44,Lb
+151,fruits-360/Test/Apricot 1/r_324_100.jpg,Apricot 1,Apricot 1,1,,
+152,fruits-360/Test/Apricot 1/93_100.jpg,Apricot 1,Apricot 1,1,,
+153,fruits-360/Test/Apricot 1/r_70_100.jpg,Apricot 1,Apricot 1,0.999999881,,
+154,fruits-360/Test/Apricot 1/41_100.jpg,Apricot 1,Apricot 1,1,,
+155,fruits-360/Test/Apricot 1/r_55_100.jpg,Apricot 1,Apricot 1,1,,
+156,fruits-360/Test/Apricot 1/78_100.jpg,Apricot 1,Apricot 1,1,,
+157,fruits-360/Test/Apricot 1/r_50_100.jpg,Apricot 1,Apricot 1,1,,
+158,fruits-360/Test/Apricot 1/60_100.jpg,Apricot 1,Apricot 1,1,,
+159,fruits-360/Test/Apricot 1/80_100.jpg,Apricot 1,Apricot 1,1,,
+160,fruits-360/Test/Apricot 1/r_62_100.jpg,Apricot 1,Apricot 1,1,,
+161,fruits-360/Test/Avocado 1/50_100.jpg,Avocado 1,Avocado 1,0.999999881,1.58,Count
+162,fruits-360/Test/Avocado 1/79_100.jpg,Avocado 1,Avocado 1,1,1.58,Count
+163,fruits-360/Test/Avocado 1/r_321_100.jpg,Avocado 1,Avocado 1,1,1.58,Count
+164,fruits-360/Test/Avocado 1/r_71_100.jpg,Avocado 1,Avocado 1,0.999997377,1.58,Count
+165,fruits-360/Test/Avocado 1/57_100.jpg,Avocado 1,Avocado 1,0.999999881,1.58,Count
+166,fruits-360/Test/Avocado 1/r_82_100.jpg,Avocado 1,Avocado 1,1,1.58,Count
+167,fruits-360/Test/Avocado 1/r_92_100.jpg,Avocado 1,Avocado 1,1,1.58,Count
+168,fruits-360/Test/Avocado 1/r_56_100.jpg,Avocado 1,Avocado 1,1,1.58,Count
+169,fruits-360/Test/Avocado 1/63_100.jpg,Avocado 1,Avocado 1,0.999999404,1.58,Count
+170,fruits-360/Test/Avocado 1/r_86_100.jpg,Avocado 1,Avocado 1,1,1.58,Count
+171,fruits-360/Test/Avocado ripe 1/110_100.jpg,Avocado ripe 1,Avocado ripe 1,1,1.58,Count
+172,fruits-360/Test/Avocado ripe 1/102_100.jpg,Avocado ripe 1,Avocado ripe 1,1,1.58,Count
+173,fruits-360/Test/Avocado ripe 1/152_100.jpg,Avocado ripe 1,Avocado ripe 1,1,1.58,Count
+174,fruits-360/Test/Avocado ripe 1/117_100.jpg,Avocado ripe 1,Avocado ripe 1,1,1.58,Count
+175,fruits-360/Test/Avocado ripe 1/r_92_100.jpg,Avocado ripe 1,Avocado 1,0.994641662,1.58,Count
+176,fruits-360/Test/Avocado ripe 1/r_196_100.jpg,Avocado ripe 1,Avocado ripe 1,1,1.58,Count
+177,fruits-360/Test/Avocado ripe 1/r_45_100.jpg,Avocado ripe 1,Avocado ripe 1,1,1.58,Count
+178,fruits-360/Test/Avocado ripe 1/218_100.jpg,Avocado ripe 1,Avocado ripe 1,1,1.58,Count
+179,fruits-360/Test/Avocado ripe 1/142_100.jpg,Avocado ripe 1,Avocado ripe 1,1,1.58,Count
+180,fruits-360/Test/Avocado ripe 1/r_75_100.jpg,Avocado ripe 1,Avocado ripe 1,0.999983549,1.58,Count
+181,fruits-360/Test/Banana 1/r_60_100.jpg,Banana 1,Banana 1,1,0.52,Lb
+182,fruits-360/Test/Banana 1/r_44_100.jpg,Banana 1,Banana 1,1,0.52,Lb
+183,fruits-360/Test/Banana 1/r_227_100.jpg,Banana 1,Banana 1,1,0.52,Lb
+184,fruits-360/Test/Banana 1/r_47_100.jpg,Banana 1,Banana 1,1,0.52,Lb
+185,fruits-360/Test/Banana 1/r_57_100.jpg,Banana 1,Banana 1,1,0.52,Lb
+186,fruits-360/Test/Banana 1/r_321_100.jpg,Banana 1,Banana 1,1,0.52,Lb
+187,fruits-360/Test/Banana 1/r_16_100.jpg,Banana 1,Banana 1,1,0.52,Lb
+188,fruits-360/Test/Banana 1/r_43_100.jpg,Banana 1,Banana 1,1,0.52,Lb
+189,fruits-360/Test/Banana 1/318_100.jpg,Banana 1,Banana 1,0.999152422,0.52,Lb
+190,fruits-360/Test/Banana 1/r_66_100.jpg,Banana 1,Banana 1,1,0.52,Lb
+191,fruits-360/Test/Banana Lady Finger 1/r2_93_100.jpg,Banana Lady Finger 1,Banana Lady Finger 1,1,0.52,Lb
+192,fruits-360/Test/Banana Lady Finger 1/r_139_100.jpg,Banana Lady Finger 1,Banana Lady Finger 1,1,0.52,Lb
+193,fruits-360/Test/Banana Lady Finger 1/r2_178_100.jpg,Banana Lady Finger 1,Banana Lady Finger 1,1,0.52,Lb
+194,fruits-360/Test/Banana Lady Finger 1/145_100.jpg,Banana Lady Finger 1,Carrot 1,0.999956965,0.52,Lb
+195,fruits-360/Test/Banana Lady Finger 1/r_48_100.jpg,Banana Lady Finger 1,Banana Lady Finger 1,1,0.52,Lb
+196,fruits-360/Test/Banana Lady Finger 1/r_156_100.jpg,Banana Lady Finger 1,Banana Lady Finger 1,1,0.52,Lb
+197,fruits-360/Test/Banana Lady Finger 1/152_100.jpg,Banana Lady Finger 1,Carrot 1,0.729956746,0.52,Lb
+198,fruits-360/Test/Banana Lady Finger 1/151_100.jpg,Banana Lady Finger 1,Carrot 1,0.999998927,0.52,Lb
+199,fruits-360/Test/Banana Lady Finger 1/137_100.jpg,Banana Lady Finger 1,Carrot 1,0.962340891,0.52,Lb
+200,fruits-360/Test/Banana Lady Finger 1/42_100.jpg,Banana Lady Finger 1,Cucumber 3,0.990305543,0.52,Lb
+201,fruits-360/Test/Banana Red 1/r_102_100.jpg,Banana Red 1,Banana Red 1,1,0.52,Lb
+202,fruits-360/Test/Banana Red 1/r_147_100.jpg,Banana Red 1,Banana Red 1,1,0.52,Lb
+203,fruits-360/Test/Banana Red 1/r_125_100.jpg,Banana Red 1,Banana Red 1,1,0.52,Lb
+204,fruits-360/Test/Banana Red 1/98_100.jpg,Banana Red 1,Banana Red 1,1,0.52,Lb
+205,fruits-360/Test/Banana Red 1/158_100.jpg,Banana Red 1,Banana Red 1,1,0.52,Lb
+206,fruits-360/Test/Banana Red 1/313_100.jpg,Banana Red 1,Banana Red 1,1,0.52,Lb
+207,fruits-360/Test/Banana Red 1/165_100.jpg,Banana Red 1,Banana Red 1,1,0.52,Lb
+208,fruits-360/Test/Banana Red 1/r_135_100.jpg,Banana Red 1,Banana Red 1,1,0.52,Lb
+209,fruits-360/Test/Banana Red 1/r_234_100.jpg,Banana Red 1,Banana Red 1,1,0.52,Lb
+210,fruits-360/Test/Banana Red 1/176_100.jpg,Banana Red 1,Banana Red 1,1,0.52,Lb
+211,fruits-360/Test/Beetroot 1/r2_77_100.jpg,Beetroot 1,Onion White 1,0.56878227,1.39,Lb
+212,fruits-360/Test/Beetroot 1/r_176_100.jpg,Beetroot 1,Beetroot 1,0.471052796,1.39,Lb
+213,fruits-360/Test/Beetroot 1/r_141_100.jpg,Beetroot 1,Potato Red 1,0.970478356,1.39,Lb
+214,fruits-360/Test/Beetroot 1/r2_93_100.jpg,Beetroot 1,Potato Red 1,0.303989708,1.39,Lb
+215,fruits-360/Test/Beetroot 1/r_170_100.jpg,Beetroot 1,Pear Forelle 1,0.753067255,1.39,Lb
+216,fruits-360/Test/Beetroot 1/136_100.jpg,Beetroot 1,Beetroot 1,0.987548232,1.39,Lb
+217,fruits-360/Test/Beetroot 1/130_100.jpg,Beetroot 1,Beetroot 1,0.999592006,1.39,Lb
+218,fruits-360/Test/Beetroot 1/r2_193_100.jpg,Beetroot 1,Beetroot 1,1,1.39,Lb
+219,fruits-360/Test/Beetroot 1/r_180_100.jpg,Beetroot 1,Beetroot 1,0.98326391,1.39,Lb
+220,fruits-360/Test/Beetroot 1/r2_76_100.jpg,Beetroot 1,Potato Red 1,0.46547097,1.39,Lb
+221,fruits-360/Test/Blueberry 1/r_235_100.jpg,Blueberry 1,Apple Red Delicious 1,0.990715384,3.02,Lb
+222,fruits-360/Test/Blueberry 1/r_230_100.jpg,Blueberry 1,Grape Blue 1,0.996774018,3.02,Lb
+223,fruits-360/Test/Blueberry 1/225_100.jpg,Blueberry 1,Blueberry 1,1,3.02,Lb
+224,fruits-360/Test/Blueberry 1/38_100.jpg,Blueberry 1,Blueberry 1,1,3.02,Lb
+225,fruits-360/Test/Blueberry 1/186_100.jpg,Blueberry 1,Blueberry 1,1,3.02,Lb
+226,fruits-360/Test/Blueberry 1/r_250_100.jpg,Blueberry 1,Blueberry 1,0.767886937,3.02,Lb
+227,fruits-360/Test/Blueberry 1/r_79_100.jpg,Blueberry 1,Blueberry 1,1,3.02,Lb
+228,fruits-360/Test/Blueberry 1/127_100.jpg,Blueberry 1,Blueberry 1,1,3.02,Lb
+229,fruits-360/Test/Blueberry 1/194_100.jpg,Blueberry 1,Blueberry 1,1,3.02,Lb
+230,fruits-360/Test/Blueberry 1/r_200_100.jpg,Blueberry 1,Grape Blue 1,1,3.02,Lb
+231,fruits-360/Test/Cabbage white 1/r0_7_100.jpg,Cabbage white 1,Cabbage white 1,1,,
+232,fruits-360/Test/Cabbage white 1/r0_79_100.jpg,Cabbage white 1,Cabbage white 1,1,,
+233,fruits-360/Test/Cabbage white 1/r0_83_100.jpg,Cabbage white 1,Cabbage white 1,1,,
+234,fruits-360/Test/Cabbage white 1/r0_63_100.jpg,Cabbage white 1,Cabbage white 1,1,,
+235,fruits-360/Test/Cabbage white 1/r0_183_100.jpg,Cabbage white 1,Cabbage white 1,1,,
+236,fruits-360/Test/Cabbage white 1/r0_71_100.jpg,Cabbage white 1,Cabbage white 1,1,,
+237,fruits-360/Test/Cabbage white 1/r0_59_100.jpg,Cabbage white 1,Cabbage white 1,1,,
+238,fruits-360/Test/Cabbage white 1/r0_99_100.jpg,Cabbage white 1,Cabbage white 1,1,,
+239,fruits-360/Test/Cabbage white 1/r0_187_100.jpg,Cabbage white 1,Cabbage white 1,1,,
+240,fruits-360/Test/Cabbage white 1/r0_175_100.jpg,Cabbage white 1,Cabbage white 1,1,,
+241,fruits-360/Test/Cactus fruit 1/r_4_100.jpg,Cactus fruit 1,Cactus fruit 1,0.999948621,,
+242,fruits-360/Test/Cactus fruit 1/r_3_100.jpg,Cactus fruit 1,Cactus fruit 1,0.995505691,,
+243,fruits-360/Test/Cactus fruit 1/r_278_100.jpg,Cactus fruit 1,Cactus fruit 1,0.996689141,,
+244,fruits-360/Test/Cactus fruit 1/r_270_100.jpg,Cactus fruit 1,Cactus fruit 1,1,,
+245,fruits-360/Test/Cactus fruit 1/r_116_100.jpg,Cactus fruit 1,Cactus fruit 1,1,,
+246,fruits-360/Test/Cactus fruit 1/r_314_100.jpg,Cactus fruit 1,Cactus fruit 1,0.999582112,,
+247,fruits-360/Test/Cactus fruit 1/243_100.jpg,Cactus fruit 1,Cactus fruit 1,1,,
+248,fruits-360/Test/Cactus fruit 1/r_304_100.jpg,Cactus fruit 1,Cactus fruit 1,0.99992466,,
+249,fruits-360/Test/Cactus fruit 1/r_324_100.jpg,Cactus fruit 1,Cactus fruit 1,0.999999881,,
+250,fruits-360/Test/Cactus fruit 1/17_100.jpg,Cactus fruit 1,Cactus fruit 1,1,,
+251,fruits-360/Test/Cantaloupe 1/130_100.jpg,Cantaloupe 1,Cantaloupe 1,1,0.81,Lb
+252,fruits-360/Test/Cantaloupe 1/r_117_100.jpg,Cantaloupe 1,Cantaloupe 1,1,0.81,Lb
+253,fruits-360/Test/Cantaloupe 1/152_100.jpg,Cantaloupe 1,Cantaloupe 1,1,0.81,Lb
+254,fruits-360/Test/Cantaloupe 1/r_140_100.jpg,Cantaloupe 1,Cantaloupe 1,1,0.81,Lb
+255,fruits-360/Test/Cantaloupe 1/136_100.jpg,Cantaloupe 1,Cantaloupe 1,1,0.81,Lb
+256,fruits-360/Test/Cantaloupe 1/r_100_100.jpg,Cantaloupe 1,Cantaloupe 1,1,0.81,Lb
+257,fruits-360/Test/Cantaloupe 1/109_100.jpg,Cantaloupe 1,Cantaloupe 1,1,0.81,Lb
+258,fruits-360/Test/Cantaloupe 1/r_99_100.jpg,Cantaloupe 1,Cantaloupe 1,1,0.81,Lb
+259,fruits-360/Test/Cantaloupe 1/r_120_100.jpg,Cantaloupe 1,Cantaloupe 1,1,0.81,Lb
+260,fruits-360/Test/Cantaloupe 1/108_100.jpg,Cantaloupe 1,Cantaloupe 1,1,0.81,Lb
+261,fruits-360/Test/Cantaloupe 2/r_194_100.jpg,Cantaloupe 2,Cantaloupe 2,1,0.81,Lb
+262,fruits-360/Test/Cantaloupe 2/r_214_100.jpg,Cantaloupe 2,Cantaloupe 2,1,0.81,Lb
+263,fruits-360/Test/Cantaloupe 2/r_47_100.jpg,Cantaloupe 2,Cantaloupe 2,1,0.81,Lb
+264,fruits-360/Test/Cantaloupe 2/r_192_100.jpg,Cantaloupe 2,Cantaloupe 2,1,0.81,Lb
+265,fruits-360/Test/Cantaloupe 2/r_196_100.jpg,Cantaloupe 2,Cantaloupe 2,1,0.81,Lb
+266,fruits-360/Test/Cantaloupe 2/r_187_100.jpg,Cantaloupe 2,Cantaloupe 2,1,0.81,Lb
+267,fruits-360/Test/Cantaloupe 2/191_100.jpg,Cantaloupe 2,Cantaloupe 2,1,0.81,Lb
+268,fruits-360/Test/Cantaloupe 2/r_217_100.jpg,Cantaloupe 2,Cantaloupe 2,1,0.81,Lb
+269,fruits-360/Test/Cantaloupe 2/233_100.jpg,Cantaloupe 2,Cantaloupe 2,1,0.81,Lb
+270,fruits-360/Test/Cantaloupe 2/r_238_100.jpg,Cantaloupe 2,Cantaloupe 2,1,0.81,Lb
+271,fruits-360/Test/Carambula 1/215_100.jpg,Carambula 1,Ginger Root 1,0.999488115,,
+272,fruits-360/Test/Carambula 1/85_100.jpg,Carambula 1,Carambula 1,0.785413563,,
+273,fruits-360/Test/Carambula 1/r_276_100.jpg,Carambula 1,Carambula 1,1,,
+274,fruits-360/Test/Carambula 1/218_100.jpg,Carambula 1,Carambula 1,0.996106327,,
+275,fruits-360/Test/Carambula 1/r_279_100.jpg,Carambula 1,Carambula 1,1,,
+276,fruits-360/Test/Carambula 1/217_100.jpg,Carambula 1,Ginger Root 1,0.999834657,,
+277,fruits-360/Test/Carambula 1/r_190_100.jpg,Carambula 1,Corn 1,0.327788055,,
+278,fruits-360/Test/Carambula 1/94_100.jpg,Carambula 1,Carambula 1,0.999999881,,
+279,fruits-360/Test/Carambula 1/r_210_100.jpg,Carambula 1,Corn 1,0.670912564,,
+280,fruits-360/Test/Carambula 1/r_195_100.jpg,Carambula 1,Papaya 1,0.669759691,,
+281,fruits-360/Test/Carrot 1/r0_67_100.jpg,Carrot 1,Carrot 1,1,$1.17 ,Lb
+282,fruits-360/Test/Carrot 1/r0_55_100.jpg,Carrot 1,Carrot 1,1,$1.17 ,Lb
+283,fruits-360/Test/Carrot 1/r0_147_100.jpg,Carrot 1,Carrot 1,1,$1.17 ,Lb
+284,fruits-360/Test/Carrot 1/r0_87_100.jpg,Carrot 1,Carrot 1,1,$1.17 ,Lb
+285,fruits-360/Test/Carrot 1/r0_7_100.jpg,Carrot 1,Carrot 1,1,$1.17 ,Lb
+286,fruits-360/Test/Carrot 1/r0_195_100.jpg,Carrot 1,Carrot 1,1,$1.17 ,Lb
+287,fruits-360/Test/Carrot 1/r0_47_100.jpg,Carrot 1,Carrot 1,1,$1.17 ,Lb
+288,fruits-360/Test/Carrot 1/r0_15_100.jpg,Carrot 1,Carrot 1,1,$1.17 ,Lb
+289,fruits-360/Test/Carrot 1/r0_11_100.jpg,Carrot 1,Carrot 1,1,$1.17 ,Lb
+290,fruits-360/Test/Carrot 1/r0_187_100.jpg,Carrot 1,Carrot 1,1,$1.17 ,Lb
+291,fruits-360/Test/Cauliflower 1/r_171_100.jpg,Cauliflower 1,Cauliflower 1,1,5.35,Lb
+292,fruits-360/Test/Cauliflower 1/r2_221_100.jpg,Cauliflower 1,Cauliflower 1,0.999877095,5.35,Lb
+293,fruits-360/Test/Cauliflower 1/r2_186_100.jpg,Cauliflower 1,Cauliflower 1,1,5.35,Lb
+294,fruits-360/Test/Cauliflower 1/r_246_100.jpg,Cauliflower 1,Cauliflower 1,0.999992967,5.35,Lb
+295,fruits-360/Test/Cauliflower 1/r_130_100.jpg,Cauliflower 1,Cauliflower 1,1,5.35,Lb
+296,fruits-360/Test/Cauliflower 1/179_100.jpg,Cauliflower 1,Cauliflower 1,1,5.35,Lb
+297,fruits-360/Test/Cauliflower 1/r2_220_100.jpg,Cauliflower 1,Cauliflower 1,0.999970317,5.35,Lb
+298,fruits-360/Test/Cauliflower 1/r_129_100.jpg,Cauliflower 1,Cauliflower 1,1,5.35,Lb
+299,fruits-360/Test/Cauliflower 1/r_175_100.jpg,Cauliflower 1,Cauliflower 1,1,5.35,Lb
+300,fruits-360/Test/Cauliflower 1/r2_243_100.jpg,Cauliflower 1,Cauliflower 1,1,5.35,Lb
+301,fruits-360/Test/Cherry 1/r_64_100.jpg,Cherry 1,Cherry 1,1,4.99,Lb
+302,fruits-360/Test/Cherry 1/52_100.jpg,Cherry 1,Cherry 1,1,4.99,Lb
+303,fruits-360/Test/Cherry 1/r_59_100.jpg,Cherry 1,Cherry 1,1,4.99,Lb
+304,fruits-360/Test/Cherry 1/93_100.jpg,Cherry 1,Cherry 1,1,4.99,Lb
+305,fruits-360/Test/Cherry 1/r_55_100.jpg,Cherry 1,Cherry 1,1,4.99,Lb
+306,fruits-360/Test/Cherry 1/35_100.jpg,Cherry 1,Cherry 1,1,4.99,Lb
+307,fruits-360/Test/Cherry 1/81_100.jpg,Cherry 1,Cherry 1,1,4.99,Lb
+308,fruits-360/Test/Cherry 1/40_100.jpg,Cherry 1,Cherry 1,1,4.99,Lb
+309,fruits-360/Test/Cherry 1/68_100.jpg,Cherry 1,Cherry 1,1,4.99,Lb
+310,fruits-360/Test/Cherry 1/r_69_100.jpg,Cherry 1,Cherry 1,1,4.99,Lb
+311,fruits-360/Test/Cherry 2/19_100.jpg,Cherry 2,Cherry 2,1,4.99,Lb
+312,fruits-360/Test/Cherry 2/31_100.jpg,Cherry 2,Cherry 2,1,4.99,Lb
+313,fruits-360/Test/Cherry 2/292_100.jpg,Cherry 2,Cherry 2,1,4.99,Lb
+314,fruits-360/Test/Cherry 2/69_100.jpg,Cherry 2,Cherry 2,1,4.99,Lb
+315,fruits-360/Test/Cherry 2/302_100.jpg,Cherry 2,Cherry 2,1,4.99,Lb
+316,fruits-360/Test/Cherry 2/r2_264_100.jpg,Cherry 2,Cherry 2,1,4.99,Lb
+317,fruits-360/Test/Cherry 2/r_43_100.jpg,Cherry 2,Cherry 2,1,4.99,Lb
+318,fruits-360/Test/Cherry 2/81_100.jpg,Cherry 2,Cherry 2,1,4.99,Lb
+319,fruits-360/Test/Cherry 2/r_47_100.jpg,Cherry 2,Cherry 2,1,4.99,Lb
+320,fruits-360/Test/Cherry 2/r_45_100.jpg,Cherry 2,Cherry 2,1,4.99,Lb
+321,fruits-360/Test/Cherry Rainier 1/r2_285_100.jpg,Cherry Rainier 1,Cherry Rainier 1,1,4.99,Lb
+322,fruits-360/Test/Cherry Rainier 1/62_100.jpg,Cherry Rainier 1,Cherry Rainier 1,1,4.99,Lb
+323,fruits-360/Test/Cherry Rainier 1/92_100.jpg,Cherry Rainier 1,Tomato 2,0.357509255,4.99,Lb
+324,fruits-360/Test/Cherry Rainier 1/r_28_100.jpg,Cherry Rainier 1,Cherry Rainier 1,0.566273808,4.99,Lb
+325,fruits-360/Test/Cherry Rainier 1/72_100.jpg,Cherry Rainier 1,Cherry Rainier 1,0.999616385,4.99,Lb
+326,fruits-360/Test/Cherry Rainier 1/148_100.jpg,Cherry Rainier 1,Cherry Rainier 1,1,4.99,Lb
+327,fruits-360/Test/Cherry Rainier 1/r2_143_100.jpg,Cherry Rainier 1,Cherry Rainier 1,1,4.99,Lb
+328,fruits-360/Test/Cherry Rainier 1/102_100.jpg,Cherry Rainier 1,Tomato 3,0.992406905,4.99,Lb
+329,fruits-360/Test/Cherry Rainier 1/80_100.jpg,Cherry Rainier 1,Cherry Rainier 1,0.999354899,4.99,Lb
+330,fruits-360/Test/Cherry Rainier 1/r_61_100.jpg,Cherry Rainier 1,Tomato 3,0.484358013,4.99,Lb
+331,fruits-360/Test/Cherry Wax Black 1/r_276_100.jpg,Cherry Wax Black 1,Cherry Wax Black 1,1,4.99,Lb
+332,fruits-360/Test/Cherry Wax Black 1/172_100.jpg,Cherry Wax Black 1,Cherry Wax Black 1,1,4.99,Lb
+333,fruits-360/Test/Cherry Wax Black 1/r_274_100.jpg,Cherry Wax Black 1,Cherry Wax Black 1,1,4.99,Lb
+334,fruits-360/Test/Cherry Wax Black 1/215_100.jpg,Cherry Wax Black 1,Cherry Wax Black 1,1,4.99,Lb
+335,fruits-360/Test/Cherry Wax Black 1/r_119_100.jpg,Cherry Wax Black 1,Cherry Wax Black 1,1,4.99,Lb
+336,fruits-360/Test/Cherry Wax Black 1/245_100.jpg,Cherry Wax Black 1,Cherry Wax Black 1,1,4.99,Lb
+337,fruits-360/Test/Cherry Wax Black 1/219_100.jpg,Cherry Wax Black 1,Cherry Wax Black 1,1,4.99,Lb
+338,fruits-360/Test/Cherry Wax Black 1/228_100.jpg,Cherry Wax Black 1,Cherry Wax Black 1,1,4.99,Lb
+339,fruits-360/Test/Cherry Wax Black 1/r_225_100.jpg,Cherry Wax Black 1,Cherry Wax Black 1,1,4.99,Lb
+340,fruits-360/Test/Cherry Wax Black 1/238_100.jpg,Cherry Wax Black 1,Cherry Wax Black 1,1,4.99,Lb
+341,fruits-360/Test/Cherry Wax Red 1/222_100.jpg,Cherry Wax Red 1,Cherry Wax Red 1,1,4.99,Lb
+342,fruits-360/Test/Cherry Wax Red 1/r_81_100.jpg,Cherry Wax Red 1,Cherry Wax Red 1,1,4.99,Lb
+343,fruits-360/Test/Cherry Wax Red 1/r_99_100.jpg,Cherry Wax Red 1,Cherry Wax Red 1,1,4.99,Lb
+344,fruits-360/Test/Cherry Wax Red 1/257_100.jpg,Cherry Wax Red 1,Cherry Wax Red 1,1,4.99,Lb
+345,fruits-360/Test/Cherry Wax Red 1/208_100.jpg,Cherry Wax Red 1,Cherry Wax Red 1,1,4.99,Lb
+346,fruits-360/Test/Cherry Wax Red 1/r_199_100.jpg,Cherry Wax Red 1,Cherry Wax Red 1,1,4.99,Lb
+347,fruits-360/Test/Cherry Wax Red 1/r_110_100.jpg,Cherry Wax Red 1,Cherry Wax Red 1,1,4.99,Lb
+348,fruits-360/Test/Cherry Wax Red 1/r_193_100.jpg,Cherry Wax Red 1,Cherry Wax Red 1,1,4.99,Lb
+349,fruits-360/Test/Cherry Wax Red 1/55_100.jpg,Cherry Wax Red 1,Cherry Wax Red 1,1,4.99,Lb
+350,fruits-360/Test/Cherry Wax Red 1/r_112_100.jpg,Cherry Wax Red 1,Cherry Wax Red 1,1,4.99,Lb
+351,fruits-360/Test/Cherry Wax Yellow 1/r_306_100.jpg,Cherry Wax Yellow 1,Cherry Wax Yellow 1,1,4.99,Lb
+352,fruits-360/Test/Cherry Wax Yellow 1/199_100.jpg,Cherry Wax Yellow 1,Cherry Wax Yellow 1,1,4.99,Lb
+353,fruits-360/Test/Cherry Wax Yellow 1/r_321_100.jpg,Cherry Wax Yellow 1,Cherry Wax Yellow 1,1,4.99,Lb
+354,fruits-360/Test/Cherry Wax Yellow 1/261_100.jpg,Cherry Wax Yellow 1,Cherry Wax Yellow 1,1,4.99,Lb
+355,fruits-360/Test/Cherry Wax Yellow 1/r_303_100.jpg,Cherry Wax Yellow 1,Cherry Wax Yellow 1,1,4.99,Lb
+356,fruits-360/Test/Cherry Wax Yellow 1/r_14_100.jpg,Cherry Wax Yellow 1,Cherry Wax Yellow 1,1,4.99,Lb
+357,fruits-360/Test/Cherry Wax Yellow 1/r_44_100.jpg,Cherry Wax Yellow 1,Cherry Wax Yellow 1,1,4.99,Lb
+358,fruits-360/Test/Cherry Wax Yellow 1/r_13_100.jpg,Cherry Wax Yellow 1,Cherry Wax Yellow 1,1,4.99,Lb
+359,fruits-360/Test/Cherry Wax Yellow 1/r_304_100.jpg,Cherry Wax Yellow 1,Cherry Wax Yellow 1,1,4.99,Lb
+360,fruits-360/Test/Cherry Wax Yellow 1/r_5_100.jpg,Cherry Wax Yellow 1,Cherry Wax Yellow 1,1,4.99,Lb
+361,fruits-360/Test/Chestnut 1/r_89_100.jpg,Chestnut 1,Chestnut 1,1,,
+362,fruits-360/Test/Chestnut 1/r_16_100.jpg,Chestnut 1,Chestnut 1,1,,
+363,fruits-360/Test/Chestnut 1/r2_5_100.jpg,Chestnut 1,Chestnut 1,1,,
+364,fruits-360/Test/Chestnut 1/r2_110_100.jpg,Chestnut 1,Chestnut 1,0.820376754,,
+365,fruits-360/Test/Chestnut 1/r2_15_100.jpg,Chestnut 1,Chestnut 1,0.996658683,,
+366,fruits-360/Test/Chestnut 1/112_100.jpg,Chestnut 1,Chestnut 1,1,,
+367,fruits-360/Test/Chestnut 1/r2_114_100.jpg,Chestnut 1,Chestnut 1,0.729899168,,
+368,fruits-360/Test/Chestnut 1/r2_128_100.jpg,Chestnut 1,Chestnut 1,0.999999642,,
+369,fruits-360/Test/Chestnut 1/r_11_100.jpg,Chestnut 1,Chestnut 1,1,,
+370,fruits-360/Test/Chestnut 1/r2_125_100.jpg,Chestnut 1,Chestnut 1,1,,
+371,fruits-360/Test/Clementine 1/62_100.jpg,Clementine 1,Clementine 1,1,,
+372,fruits-360/Test/Clementine 1/116_100.jpg,Clementine 1,Clementine 1,1,,
+373,fruits-360/Test/Clementine 1/r_66_100.jpg,Clementine 1,Clementine 1,1,,
+374,fruits-360/Test/Clementine 1/307_100.jpg,Clementine 1,Clementine 1,1,,
+375,fruits-360/Test/Clementine 1/r_71_100.jpg,Clementine 1,Clementine 1,1,,
+376,fruits-360/Test/Clementine 1/r_191_100.jpg,Clementine 1,Clementine 1,0.999932647,,
+377,fruits-360/Test/Clementine 1/60_100.jpg,Clementine 1,Clementine 1,1,,
+378,fruits-360/Test/Clementine 1/150_100.jpg,Clementine 1,Clementine 1,1,,
+379,fruits-360/Test/Clementine 1/r_208_100.jpg,Clementine 1,Clementine 1,1,,
+380,fruits-360/Test/Clementine 1/107_100.jpg,Clementine 1,Clementine 1,1,,
+381,fruits-360/Test/Cocos 1/308_100.jpg,Cocos 1,Cocos 1,1,,
+382,fruits-360/Test/Cocos 1/r_173_100.jpg,Cocos 1,Cocos 1,0.999976158,,
+383,fruits-360/Test/Cocos 1/r_101_100.jpg,Cocos 1,Salak 1,0.974248946,,
+384,fruits-360/Test/Cocos 1/r_138_100.jpg,Cocos 1,Cocos 1,1,,
+385,fruits-360/Test/Cocos 1/r_87_100.jpg,Cocos 1,Cocos 1,0.999978065,,
+386,fruits-360/Test/Cocos 1/260_100.jpg,Cocos 1,Cocos 1,1,,
+387,fruits-360/Test/Cocos 1/r_204_100.jpg,Cocos 1,Cocos 1,0.999735534,,
+388,fruits-360/Test/Cocos 1/r_74_100.jpg,Cocos 1,Cocos 1,1,,
+389,fruits-360/Test/Cocos 1/274_100.jpg,Cocos 1,Cocos 1,1,,
+390,fruits-360/Test/Cocos 1/0_100.jpg,Cocos 1,Cocos 1,1,,
+391,fruits-360/Test/Corn 1/r2_75_100.jpg,Corn 1,Cauliflower 1,0.691143453,,
+392,fruits-360/Test/Corn 1/61_100.jpg,Corn 1,Corn 1,1,,
+393,fruits-360/Test/Corn 1/r_65_100.jpg,Corn 1,Cauliflower 1,0.97796905,,
+394,fruits-360/Test/Corn 1/r2_165_100.jpg,Corn 1,Guava 1,0.850256979,,
+395,fruits-360/Test/Corn 1/r2_62_100.jpg,Corn 1,Onion White 1,0.999673724,,
+396,fruits-360/Test/Corn 1/r_151_100.jpg,Corn 1,Apple Pink Lady 1,0.991175771,,
+397,fruits-360/Test/Corn 1/r2_163_100.jpg,Corn 1,Cantaloupe 2,0.49941048,,
+398,fruits-360/Test/Corn 1/164_100.jpg,Corn 1,Corn 1,0.999999523,,
+399,fruits-360/Test/Corn 1/r2_169_100.jpg,Corn 1,Cauliflower 1,0.93844521,,
+400,fruits-360/Test/Corn 1/29_100.jpg,Corn 1,Corn 1,1,,
+401,fruits-360/Test/Corn Husk 1/r_114_100.jpg,Corn Husk 1,Corn Husk 1,0.999996901,,
+402,fruits-360/Test/Corn Husk 1/88_100.jpg,Corn Husk 1,Corn Husk 1,1,,
+403,fruits-360/Test/Corn Husk 1/213_100.jpg,Corn Husk 1,Corn Husk 1,1,,
+404,fruits-360/Test/Corn Husk 1/236_100.jpg,Corn Husk 1,Corn Husk 1,1,,
+405,fruits-360/Test/Corn Husk 1/242_100.jpg,Corn Husk 1,Corn Husk 1,1,,
+406,fruits-360/Test/Corn Husk 1/251_100.jpg,Corn Husk 1,Corn Husk 1,1,,
+407,fruits-360/Test/Corn Husk 1/224_100.jpg,Corn Husk 1,Corn Husk 1,1,,
+408,fruits-360/Test/Corn Husk 1/228_100.jpg,Corn Husk 1,Corn Husk 1,1,,
+409,fruits-360/Test/Corn Husk 1/93_100.jpg,Corn Husk 1,Corn Husk 1,1,,
+410,fruits-360/Test/Corn Husk 1/5_100.jpg,Corn Husk 1,Corn Husk 1,1,,
+411,fruits-360/Test/Cucumber 1/r0_43_100.jpg,Cucumber 1,Cucumber 1,1,,
+412,fruits-360/Test/Cucumber 1/r0_103_100.jpg,Cucumber 1,Cucumber 1,1,,
+413,fruits-360/Test/Cucumber 1/r0_123_100.jpg,Cucumber 1,Cucumber 1,1,,
+414,fruits-360/Test/Cucumber 1/r0_23_100.jpg,Cucumber 1,Cucumber 1,1,,
+415,fruits-360/Test/Cucumber 1/r0_91_100.jpg,Cucumber 1,Cucumber 1,1,,
+416,fruits-360/Test/Cucumber 1/r0_71_100.jpg,Cucumber 1,Cucumber 1,1,,
+417,fruits-360/Test/Cucumber 1/r0_111_100.jpg,Cucumber 1,Cucumber 1,1,,
+418,fruits-360/Test/Cucumber 1/r0_167_100.jpg,Cucumber 1,Cucumber 1,1,,
+419,fruits-360/Test/Cucumber 1/r0_131_100.jpg,Cucumber 1,Cucumber 1,1,,
+420,fruits-360/Test/Cucumber 1/r0_3_100.jpg,Cucumber 1,Cucumber 1,1,,
+421,fruits-360/Test/Cucumber 3/r0_39_100.jpg,Cucumber 3,Cucumber 3,1,,
+422,fruits-360/Test/Cucumber 3/r0_91_100.jpg,Cucumber 3,Cucumber 3,1,,
+423,fruits-360/Test/Cucumber 3/r0_231_100.jpg,Cucumber 3,Cucumber 3,1,,
+424,fruits-360/Test/Cucumber 3/r0_263_100.jpg,Cucumber 3,Cucumber 3,1,,
+425,fruits-360/Test/Cucumber 3/r0_219_100.jpg,Cucumber 3,Cucumber 3,1,,
+426,fruits-360/Test/Cucumber 3/r0_179_100.jpg,Cucumber 3,Cucumber 3,1,,
+427,fruits-360/Test/Cucumber 3/r0_271_100.jpg,Cucumber 3,Cucumber 3,1,,
+428,fruits-360/Test/Cucumber 3/r0_167_100.jpg,Cucumber 3,Cucumber 3,1,,
+429,fruits-360/Test/Cucumber 3/r0_75_100.jpg,Cucumber 3,Cucumber 3,1,,
+430,fruits-360/Test/Cucumber 3/r0_315_100.jpg,Cucumber 3,Cucumber 3,1,,
+431,fruits-360/Test/Cucumber Ripe 1/216_100.jpg,Cucumber Ripe 1,Cucumber Ripe 1,0.999999285,,
+432,fruits-360/Test/Cucumber Ripe 1/r_125_100.jpg,Cucumber Ripe 1,Cucumber Ripe 1,0.566040337,,
+433,fruits-360/Test/Cucumber Ripe 1/171_100.jpg,Cucumber Ripe 1,Cucumber Ripe 1,1,,
+434,fruits-360/Test/Cucumber Ripe 1/198_100.jpg,Cucumber Ripe 1,Cucumber Ripe 1,1,,
+435,fruits-360/Test/Cucumber Ripe 1/203_100.jpg,Cucumber Ripe 1,Cucumber Ripe 1,0.999954581,,
+436,fruits-360/Test/Cucumber Ripe 1/r_43_100.jpg,Cucumber Ripe 1,Cucumber Ripe 1,1,,
+437,fruits-360/Test/Cucumber Ripe 1/183_100.jpg,Cucumber Ripe 1,Cucumber Ripe 1,1,,
+438,fruits-360/Test/Cucumber Ripe 1/r_157_100.jpg,Cucumber Ripe 1,Cucumber Ripe 1,0.99625659,,
+439,fruits-360/Test/Cucumber Ripe 1/222_100.jpg,Cucumber Ripe 1,Cucumber Ripe 1,1,,
+440,fruits-360/Test/Cucumber Ripe 1/211_100.jpg,Cucumber Ripe 1,Cucumber Ripe 1,0.999996901,,
+441,fruits-360/Test/Cucumber Ripe 2/229_100.jpg,Cucumber Ripe 2,Cucumber Ripe 2,1,,
+442,fruits-360/Test/Cucumber Ripe 2/222_100.jpg,Cucumber Ripe 2,Cucumber Ripe 2,1,,
+443,fruits-360/Test/Cucumber Ripe 2/r_173_100.jpg,Cucumber Ripe 2,Pepper Yellow 1,0.521730125,,
+444,fruits-360/Test/Cucumber Ripe 2/163_100.jpg,Cucumber Ripe 2,Cucumber Ripe 2,1,,
+445,fruits-360/Test/Cucumber Ripe 2/r_175_100.jpg,Cucumber Ripe 2,Guava 1,0.820845366,,
+446,fruits-360/Test/Cucumber Ripe 2/r_189_100.jpg,Cucumber Ripe 2,Cucumber Ripe 2,1,,
+447,fruits-360/Test/Cucumber Ripe 2/r_163_100.jpg,Cucumber Ripe 2,Pepper Yellow 1,0.999997735,,
+448,fruits-360/Test/Cucumber Ripe 2/228_100.jpg,Cucumber Ripe 2,Cucumber Ripe 2,1,,
+449,fruits-360/Test/Cucumber Ripe 2/215_100.jpg,Cucumber Ripe 2,Cucumber Ripe 2,1,,
+450,fruits-360/Test/Cucumber Ripe 2/119_100.jpg,Cucumber Ripe 2,Cucumber Ripe 2,1,,
+451,fruits-360/Test/Dates 1/r_311_100.jpg,Dates 1,Dates 1,1,,
+452,fruits-360/Test/Dates 1/r_104_100.jpg,Dates 1,Dates 1,1,,
+453,fruits-360/Test/Dates 1/r_308_100.jpg,Dates 1,Dates 1,1,,
+454,fruits-360/Test/Dates 1/r_89_100.jpg,Dates 1,Dates 1,0.999999881,,
+455,fruits-360/Test/Dates 1/95_100.jpg,Dates 1,Dates 1,0.999994636,,
+456,fruits-360/Test/Dates 1/117_100.jpg,Dates 1,Dates 1,0.996991158,,
+457,fruits-360/Test/Dates 1/139_100.jpg,Dates 1,Dates 1,1,,
+458,fruits-360/Test/Dates 1/r_91_100.jpg,Dates 1,Dates 1,1,,
+459,fruits-360/Test/Dates 1/6_100.jpg,Dates 1,Dates 1,1,,
+460,fruits-360/Test/Dates 1/126_100.jpg,Dates 1,Dates 1,0.999533772,,
+461,fruits-360/Test/Eggplant 1/131_100.jpg,Eggplant 1,Eggplant 1,0.999999642,,
+462,fruits-360/Test/Eggplant 1/145_100.jpg,Eggplant 1,Eggplant 1,0.999137282,,
+463,fruits-360/Test/Eggplant 1/r_91_100.jpg,Eggplant 1,Eggplant 1,0.993487,,
+464,fruits-360/Test/Eggplant 1/135_100.jpg,Eggplant 1,Eggplant 1,0.999995828,,
+465,fruits-360/Test/Eggplant 1/r_73_100.jpg,Eggplant 1,Eggplant 1,0.984648228,,
+466,fruits-360/Test/Eggplant 1/r_87_100.jpg,Eggplant 1,Blueberry 1,0.979099333,,
+467,fruits-360/Test/Eggplant 1/126_100.jpg,Eggplant 1,Eggplant 1,1,,
+468,fruits-360/Test/Eggplant 1/r_250_100.jpg,Eggplant 1,Ginger Root 1,0.971258461,,
+469,fruits-360/Test/Eggplant 1/r_265_100.jpg,Eggplant 1,Eggplant 1,0.987300098,,
+470,fruits-360/Test/Eggplant 1/138_100.jpg,Eggplant 1,Eggplant 1,0.999957442,,
+471,fruits-360/Test/Eggplant long 1/r0_59_100.jpg,Eggplant long 1,Eggplant long 1,1,,
+472,fruits-360/Test/Eggplant long 1/r0_15_100.jpg,Eggplant long 1,Eggplant long 1,1,,
+473,fruits-360/Test/Eggplant long 1/r0_259_100.jpg,Eggplant long 1,Eggplant long 1,1,,
+474,fruits-360/Test/Eggplant long 1/r0_83_100.jpg,Eggplant long 1,Eggplant long 1,1,,
+475,fruits-360/Test/Eggplant long 1/r0_75_100.jpg,Eggplant long 1,Eggplant long 1,1,,
+476,fruits-360/Test/Eggplant long 1/r0_19_100.jpg,Eggplant long 1,Eggplant long 1,1,,
+477,fruits-360/Test/Eggplant long 1/r0_235_100.jpg,Eggplant long 1,Eggplant long 1,1,,
+478,fruits-360/Test/Eggplant long 1/r0_139_100.jpg,Eggplant long 1,Eggplant long 1,1,,
+479,fruits-360/Test/Eggplant long 1/r0_295_100.jpg,Eggplant long 1,Eggplant long 1,1,,
+480,fruits-360/Test/Eggplant long 1/r0_35_100.jpg,Eggplant long 1,Eggplant long 1,1,,
+481,fruits-360/Test/Fig 1/r_36_100.jpg,Fig 1,Fig 1,1,,
+482,fruits-360/Test/Fig 1/r2_256_100.jpg,Fig 1,Fig 1,1,,
+483,fruits-360/Test/Fig 1/r2_117_100.jpg,Fig 1,Fig 1,0.993409038,,
+484,fruits-360/Test/Fig 1/r2_108_100.jpg,Fig 1,Fig 1,0.581315041,,
+485,fruits-360/Test/Fig 1/r2_263_100.jpg,Fig 1,Fig 1,1,,
+486,fruits-360/Test/Fig 1/r2_162_100.jpg,Fig 1,Fig 1,1,,
+487,fruits-360/Test/Fig 1/r_218_100.jpg,Fig 1,Fig 1,1,,
+488,fruits-360/Test/Fig 1/r2_127_100.jpg,Fig 1,Fig 1,0.999905586,,
+489,fruits-360/Test/Fig 1/r2_135_100.jpg,Fig 1,Fig 1,0.999999881,,
+490,fruits-360/Test/Fig 1/r2_151_100.jpg,Fig 1,Fig 1,1,,
+491,fruits-360/Test/Ginger Root 1/44_100.jpg,Ginger Root 1,Ginger Root 1,1,,
+492,fruits-360/Test/Ginger Root 1/r_66_100.jpg,Ginger Root 1,Pear 2,0.879547358,,
+493,fruits-360/Test/Ginger Root 1/r_81_100.jpg,Ginger Root 1,Corn 1,0.999668717,,
+494,fruits-360/Test/Ginger Root 1/128_100.jpg,Ginger Root 1,Ginger Root 1,1,,
+495,fruits-360/Test/Ginger Root 1/r_62_100.jpg,Ginger Root 1,Pear 2,0.999515057,,
+496,fruits-360/Test/Ginger Root 1/83_100.jpg,Ginger Root 1,Ginger Root 1,0.999999881,,
+497,fruits-360/Test/Ginger Root 1/134_100.jpg,Ginger Root 1,Ginger Root 1,1,,
+498,fruits-360/Test/Ginger Root 1/r_58_100.jpg,Ginger Root 1,Pear 2,0.653718472,,
+499,fruits-360/Test/Ginger Root 1/47_100.jpg,Ginger Root 1,Ginger Root 1,0.999999881,,
+500,fruits-360/Test/Ginger Root 1/r_56_100.jpg,Ginger Root 1,Pear 2,0.998829663,,
+501,fruits-360/Test/Granadilla 1/r_288_100.jpg,Granadilla 1,Granadilla 1,1,,
+502,fruits-360/Test/Granadilla 1/r_153_100.jpg,Granadilla 1,Granadilla 1,1,,
+503,fruits-360/Test/Granadilla 1/53_100.jpg,Granadilla 1,Granadilla 1,1,,
+504,fruits-360/Test/Granadilla 1/r_292_100.jpg,Granadilla 1,Granadilla 1,1,,
+505,fruits-360/Test/Granadilla 1/71_100.jpg,Granadilla 1,Granadilla 1,1,,
+506,fruits-360/Test/Granadilla 1/77_100.jpg,Granadilla 1,Granadilla 1,1,,
+507,fruits-360/Test/Granadilla 1/92_100.jpg,Granadilla 1,Granadilla 1,1,,
+508,fruits-360/Test/Granadilla 1/r_27_100.jpg,Granadilla 1,Granadilla 1,1,,
+509,fruits-360/Test/Granadilla 1/51_100.jpg,Granadilla 1,Granadilla 1,1,,
+510,fruits-360/Test/Granadilla 1/r_137_100.jpg,Granadilla 1,Granadilla 1,1,,
+511,fruits-360/Test/Grape Blue 1/635_100.jpg,Grape Blue 1,Grape Blue 1,1,2.20,Lb
+512,fruits-360/Test/Grape Blue 1/r_290_100.jpg,Grape Blue 1,Grape Blue 1,1,2.20,Lb
+513,fruits-360/Test/Grape Blue 1/626_100.jpg,Grape Blue 1,Grape Blue 1,1,2.20,Lb
+514,fruits-360/Test/Grape Blue 1/r_286_100.jpg,Grape Blue 1,Grape Blue 1,1,2.20,Lb
+515,fruits-360/Test/Grape Blue 1/34_100.jpg,Grape Blue 1,Grape Blue 1,1,2.20,Lb
+516,fruits-360/Test/Grape Blue 1/573_100.jpg,Grape Blue 1,Grape Blue 1,1,2.20,Lb
+517,fruits-360/Test/Grape Blue 1/r_479_100.jpg,Grape Blue 1,Grape Blue 1,1,2.20,Lb
+518,fruits-360/Test/Grape Blue 1/r_333_100.jpg,Grape Blue 1,Grape Blue 1,1,2.20,Lb
+519,fruits-360/Test/Grape Blue 1/632_100.jpg,Grape Blue 1,Grape Blue 1,1,2.20,Lb
+520,fruits-360/Test/Grape Blue 1/630_100.jpg,Grape Blue 1,Grape Blue 1,1,2.20,Lb
+521,fruits-360/Test/Grape Pink 1/5_100.jpg,Grape Pink 1,Grape Pink 1,1,2.20,Lb
+522,fruits-360/Test/Grape Pink 1/r_77_100.jpg,Grape Pink 1,Grape Pink 1,0.659098923,2.20,Lb
+523,fruits-360/Test/Grape Pink 1/327_100.jpg,Grape Pink 1,Grape Pink 1,1,2.20,Lb
+524,fruits-360/Test/Grape Pink 1/r_36_100.jpg,Grape Pink 1,Grape Pink 1,1,2.20,Lb
+525,fruits-360/Test/Grape Pink 1/r_321_100.jpg,Grape Pink 1,Grape Pink 1,1,2.20,Lb
+526,fruits-360/Test/Grape Pink 1/33_100.jpg,Grape Pink 1,Grape Pink 1,1,2.20,Lb
+527,fruits-360/Test/Grape Pink 1/34_100.jpg,Grape Pink 1,Grape Pink 1,1,2.20,Lb
+528,fruits-360/Test/Grape Pink 1/38_100.jpg,Grape Pink 1,Grape Pink 1,1,2.20,Lb
+529,fruits-360/Test/Grape Pink 1/r_65_100.jpg,Grape Pink 1,Grape Pink 1,0.999994278,2.20,Lb
+530,fruits-360/Test/Grape Pink 1/r_37_100.jpg,Grape Pink 1,Grape Pink 1,0.999999404,2.20,Lb
+531,fruits-360/Test/Grape White 1/91_100.jpg,Grape White 1,Grape White 1,1,2.20,Lb
+532,fruits-360/Test/Grape White 1/265_100.jpg,Grape White 1,Grape White 1,1,2.20,Lb
+533,fruits-360/Test/Grape White 1/261_100.jpg,Grape White 1,Grape White 1,1,2.20,Lb
+534,fruits-360/Test/Grape White 1/r_94_100.jpg,Grape White 1,Grape White 1,1,2.20,Lb
+535,fruits-360/Test/Grape White 1/r_261_100.jpg,Grape White 1,Grape White 1,1,2.20,Lb
+536,fruits-360/Test/Grape White 1/r_112_100.jpg,Grape White 1,Grape White 1,1,2.20,Lb
+537,fruits-360/Test/Grape White 1/83_100.jpg,Grape White 1,Grape White 1,1,2.20,Lb
+538,fruits-360/Test/Grape White 1/r_233_100.jpg,Grape White 1,Grape White 1,1,2.20,Lb
+539,fruits-360/Test/Grape White 1/r_79_100.jpg,Grape White 1,Grape White 1,1,2.20,Lb
+540,fruits-360/Test/Grape White 1/r_232_100.jpg,Grape White 1,Grape White 1,1,2.20,Lb
+541,fruits-360/Test/Grape White 2/r_36_100.jpg,Grape White 2,Grape White 2,1,2.20,Lb
+542,fruits-360/Test/Grape White 2/325_100.jpg,Grape White 2,Grape White 2,1,2.20,Lb
+543,fruits-360/Test/Grape White 2/18_100.jpg,Grape White 2,Grape White 2,1,2.20,Lb
+544,fruits-360/Test/Grape White 2/321_100.jpg,Grape White 2,Grape White 2,1,2.20,Lb
+545,fruits-360/Test/Grape White 2/r_51_100.jpg,Grape White 2,Grape White 2,1,2.20,Lb
+546,fruits-360/Test/Grape White 2/r_230_100.jpg,Grape White 2,Grape White 2,1,2.20,Lb
+547,fruits-360/Test/Grape White 2/16_100.jpg,Grape White 2,Grape White 2,1,2.20,Lb
+548,fruits-360/Test/Grape White 2/266_100.jpg,Grape White 2,Grape White 2,1,2.20,Lb
+549,fruits-360/Test/Grape White 2/7_100.jpg,Grape White 2,Grape White 2,1,2.20,Lb
+550,fruits-360/Test/Grape White 2/265_100.jpg,Grape White 2,Grape White 2,1,2.20,Lb
+551,fruits-360/Test/Grape White 3/r_203_100.jpg,Grape White 3,Grape White 3,1,2.20,Lb
+552,fruits-360/Test/Grape White 3/r_124_100.jpg,Grape White 3,Grape White 3,1,2.20,Lb
+553,fruits-360/Test/Grape White 3/r_113_100.jpg,Grape White 3,Grape White 3,1,2.20,Lb
+554,fruits-360/Test/Grape White 3/r_184_100.jpg,Grape White 3,Grape White 3,1,2.20,Lb
+555,fruits-360/Test/Grape White 3/r_174_100.jpg,Grape White 3,Grape White 3,1,2.20,Lb
+556,fruits-360/Test/Grape White 3/145_100.jpg,Grape White 3,Grape White 3,1,2.20,Lb
+557,fruits-360/Test/Grape White 3/r_91_100.jpg,Grape White 3,Grape White 3,1,2.20,Lb
+558,fruits-360/Test/Grape White 3/151_100.jpg,Grape White 3,Grape White 3,1,2.20,Lb
+559,fruits-360/Test/Grape White 3/r_120_100.jpg,Grape White 3,Grape White 3,1,2.20,Lb
+560,fruits-360/Test/Grape White 3/167_100.jpg,Grape White 3,Grape White 3,1,2.20,Lb
+561,fruits-360/Test/Grape White 4/192_100.jpg,Grape White 4,Grape White 4,1,2.20,Lb
+562,fruits-360/Test/Grape White 4/r_245_100.jpg,Grape White 4,Grape White 4,1,2.20,Lb
+563,fruits-360/Test/Grape White 4/r_75_100.jpg,Grape White 4,Grape White 4,1,2.20,Lb
+564,fruits-360/Test/Grape White 4/313_100.jpg,Grape White 4,Grape White 4,1,2.20,Lb
+565,fruits-360/Test/Grape White 4/r_56_100.jpg,Grape White 4,Grape White 4,1,2.20,Lb
+566,fruits-360/Test/Grape White 4/319_100.jpg,Grape White 4,Grape White 4,1,2.20,Lb
+567,fruits-360/Test/Grape White 4/194_100.jpg,Grape White 4,Grape White 4,1,2.20,Lb
+568,fruits-360/Test/Grape White 4/r_242_100.jpg,Grape White 4,Grape White 4,1,2.20,Lb
+569,fruits-360/Test/Grape White 4/r_62_100.jpg,Grape White 4,Grape White 4,1,2.20,Lb
+570,fruits-360/Test/Grape White 4/220_100.jpg,Grape White 4,Grape White 4,1,2.20,Lb
+571,fruits-360/Test/Grapefruit Pink 1/187_100.jpg,Grapefruit Pink 1,Grapefruit Pink 1,1,0.99,Lb
+572,fruits-360/Test/Grapefruit Pink 1/r_70_100.jpg,Grapefruit Pink 1,Grapefruit Pink 1,0.999106586,0.99,Lb
+573,fruits-360/Test/Grapefruit Pink 1/r_58_100.jpg,Grapefruit Pink 1,Grapefruit Pink 1,0.999999881,0.99,Lb
+574,fruits-360/Test/Grapefruit Pink 1/r_203_100.jpg,Grapefruit Pink 1,Grapefruit Pink 1,0.999999523,0.99,Lb
+575,fruits-360/Test/Grapefruit Pink 1/270_100.jpg,Grapefruit Pink 1,Grapefruit Pink 1,1,0.99,Lb
+576,fruits-360/Test/Grapefruit Pink 1/r_51_100.jpg,Grapefruit Pink 1,Grapefruit Pink 1,0.999115169,0.99,Lb
+577,fruits-360/Test/Grapefruit Pink 1/r_215_100.jpg,Grapefruit Pink 1,Grapefruit Pink 1,1,0.99,Lb
+578,fruits-360/Test/Grapefruit Pink 1/r_53_100.jpg,Grapefruit Pink 1,Grapefruit Pink 1,0.974410772,0.99,Lb
+579,fruits-360/Test/Grapefruit Pink 1/39_100.jpg,Grapefruit Pink 1,Grapefruit Pink 1,1,0.99,Lb
+580,fruits-360/Test/Grapefruit Pink 1/r_54_100.jpg,Grapefruit Pink 1,Grapefruit Pink 1,0.994454086,0.99,Lb
+581,fruits-360/Test/Grapefruit White 1/9_100.jpg,Grapefruit White 1,Grapefruit White 1,1,0.99,Lb
+582,fruits-360/Test/Grapefruit White 1/52_100.jpg,Grapefruit White 1,Grapefruit White 1,1,0.99,Lb
+583,fruits-360/Test/Grapefruit White 1/r_88_100.jpg,Grapefruit White 1,Grapefruit White 1,1,0.99,Lb
+584,fruits-360/Test/Grapefruit White 1/r_68_100.jpg,Grapefruit White 1,Grapefruit White 1,1,0.99,Lb
+585,fruits-360/Test/Grapefruit White 1/70_100.jpg,Grapefruit White 1,Grapefruit White 1,1,0.99,Lb
+586,fruits-360/Test/Grapefruit White 1/r_39_100.jpg,Grapefruit White 1,Grapefruit White 1,1,0.99,Lb
+587,fruits-360/Test/Grapefruit White 1/r_72_100.jpg,Grapefruit White 1,Grapefruit White 1,1,0.99,Lb
+588,fruits-360/Test/Grapefruit White 1/68_100.jpg,Grapefruit White 1,Grapefruit White 1,1,0.99,Lb
+589,fruits-360/Test/Grapefruit White 1/r_38_100.jpg,Grapefruit White 1,Grapefruit White 1,1,0.99,Lb
+590,fruits-360/Test/Grapefruit White 1/8_100.jpg,Grapefruit White 1,Grapefruit White 1,1,0.99,Lb
+591,fruits-360/Test/Guava 1/41_100.jpg,Guava 1,Guava 1,1,,
+592,fruits-360/Test/Guava 1/r_149_100.jpg,Guava 1,Guava 1,1,,
+593,fruits-360/Test/Guava 1/64_100.jpg,Guava 1,Guava 1,1,,
+594,fruits-360/Test/Guava 1/r_291_100.jpg,Guava 1,Guava 1,1,,
+595,fruits-360/Test/Guava 1/r_254_100.jpg,Guava 1,Guava 1,1,,
+596,fruits-360/Test/Guava 1/r_136_100.jpg,Guava 1,Guava 1,1,,
+597,fruits-360/Test/Guava 1/83_100.jpg,Guava 1,Guava 1,1,,
+598,fruits-360/Test/Guava 1/91_100.jpg,Guava 1,Guava 1,1,,
+599,fruits-360/Test/Guava 1/45_100.jpg,Guava 1,Guava 1,1,,
+600,fruits-360/Test/Guava 1/107_100.jpg,Guava 1,Guava 1,1,,
+601,fruits-360/Test/Hazelnut 1/223_100.jpg,Hazelnut 1,Hazelnut 1,1,,
+602,fruits-360/Test/Hazelnut 1/r_12_100.jpg,Hazelnut 1,Hazelnut 1,1,,
+603,fruits-360/Test/Hazelnut 1/214_100.jpg,Hazelnut 1,Hazelnut 1,0.999999642,,
+604,fruits-360/Test/Hazelnut 1/r_140_100.jpg,Hazelnut 1,Hazelnut 1,1,,
+605,fruits-360/Test/Hazelnut 1/200_100.jpg,Hazelnut 1,Hazelnut 1,0.999999881,,
+606,fruits-360/Test/Hazelnut 1/215_100.jpg,Hazelnut 1,Hazelnut 1,1,,
+607,fruits-360/Test/Hazelnut 1/r_156_100.jpg,Hazelnut 1,Hazelnut 1,1,,
+608,fruits-360/Test/Hazelnut 1/230_100.jpg,Hazelnut 1,Hazelnut 1,1,,
+609,fruits-360/Test/Hazelnut 1/85_100.jpg,Hazelnut 1,Hazelnut 1,1,,
+610,fruits-360/Test/Hazelnut 1/r_166_100.jpg,Hazelnut 1,Hazelnut 1,1,,
+611,fruits-360/Test/Huckleberry 1/r_47_100.jpg,Huckleberry 1,Huckleberry 1,1,,
+612,fruits-360/Test/Huckleberry 1/r_28_100.jpg,Huckleberry 1,Huckleberry 1,1,,
+613,fruits-360/Test/Huckleberry 1/238_100.jpg,Huckleberry 1,Huckleberry 1,1,,
+614,fruits-360/Test/Huckleberry 1/r_52_100.jpg,Huckleberry 1,Huckleberry 1,1,,
+615,fruits-360/Test/Huckleberry 1/293_100.jpg,Huckleberry 1,Huckleberry 1,1,,
+616,fruits-360/Test/Huckleberry 1/r_242_100.jpg,Huckleberry 1,Huckleberry 1,1,,
+617,fruits-360/Test/Huckleberry 1/235_100.jpg,Huckleberry 1,Huckleberry 1,1,,
+618,fruits-360/Test/Huckleberry 1/r_62_100.jpg,Huckleberry 1,Huckleberry 1,1,,
+619,fruits-360/Test/Huckleberry 1/r_223_100.jpg,Huckleberry 1,Huckleberry 1,0.999800026,,
+620,fruits-360/Test/Huckleberry 1/r_67_100.jpg,Huckleberry 1,Huckleberry 1,1,,
+621,fruits-360/Test/Kaki 1/r_163_100.jpg,Kaki 1,Kaki 1,1,,
+622,fruits-360/Test/Kaki 1/r_147_100.jpg,Kaki 1,Kaki 1,1,,
+623,fruits-360/Test/Kaki 1/166_100.jpg,Kaki 1,Kaki 1,1,,
+624,fruits-360/Test/Kaki 1/267_100.jpg,Kaki 1,Kaki 1,1,,
+625,fruits-360/Test/Kaki 1/r_84_100.jpg,Kaki 1,Kaki 1,1,,
+626,fruits-360/Test/Kaki 1/r_82_100.jpg,Kaki 1,Kaki 1,1,,
+627,fruits-360/Test/Kaki 1/270_100.jpg,Kaki 1,Kaki 1,1,,
+628,fruits-360/Test/Kaki 1/r_132_100.jpg,Kaki 1,Kaki 1,1,,
+629,fruits-360/Test/Kaki 1/153_100.jpg,Kaki 1,Kaki 1,1,,
+630,fruits-360/Test/Kaki 1/184_100.jpg,Kaki 1,Kaki 1,1,,
+631,fruits-360/Test/Kiwi 1/42_100.jpg,Kiwi 1,Kiwi 1,0.99987638,,
+632,fruits-360/Test/Kiwi 1/6_100.jpg,Kiwi 1,Kiwi 1,1,,
+633,fruits-360/Test/Kiwi 1/r_84_100.jpg,Kiwi 1,Kiwi 1,0.917938471,,
+634,fruits-360/Test/Kiwi 1/r_64_100.jpg,Kiwi 1,Pineapple Mini 1,0.816278458,,
+635,fruits-360/Test/Kiwi 1/r_80_100.jpg,Kiwi 1,Mandarine 1,0.990948379,,
+636,fruits-360/Test/Kiwi 1/r_95_100.jpg,Kiwi 1,Kiwi 1,0.999596179,,
+637,fruits-360/Test/Kiwi 1/r_90_100.jpg,Kiwi 1,Kiwi 1,0.971456647,,
+638,fruits-360/Test/Kiwi 1/r_76_100.jpg,Kiwi 1,Pineapple Mini 1,0.584284127,,
+639,fruits-360/Test/Kiwi 1/r_56_100.jpg,Kiwi 1,Nectarine 1,0.825246036,,
+640,fruits-360/Test/Kiwi 1/r_57_100.jpg,Kiwi 1,Pineapple Mini 1,0.728226364,,
+641,fruits-360/Test/Kohlrabi 1/r_303_100.jpg,Kohlrabi 1,Kohlrabi 1,0.959925354,,
+642,fruits-360/Test/Kohlrabi 1/47_100.jpg,Kohlrabi 1,Kohlrabi 1,1,,
+643,fruits-360/Test/Kohlrabi 1/223_100.jpg,Kohlrabi 1,Kohlrabi 1,1,,
+644,fruits-360/Test/Kohlrabi 1/214_100.jpg,Kohlrabi 1,Kohlrabi 1,1,,
+645,fruits-360/Test/Kohlrabi 1/53_100.jpg,Kohlrabi 1,Kohlrabi 1,1,,
+646,fruits-360/Test/Kohlrabi 1/r_295_100.jpg,Kohlrabi 1,Kohlrabi 1,0.902090192,,
+647,fruits-360/Test/Kohlrabi 1/16_100.jpg,Kohlrabi 1,Kohlrabi 1,1,,
+648,fruits-360/Test/Kohlrabi 1/r_145_100.jpg,Kohlrabi 1,Kohlrabi 1,1,,
+649,fruits-360/Test/Kohlrabi 1/21_100.jpg,Kohlrabi 1,Kohlrabi 1,1,,
+650,fruits-360/Test/Kohlrabi 1/233_100.jpg,Kohlrabi 1,Kohlrabi 1,1,,
+651,fruits-360/Test/Kumquats 1/r_284_100.jpg,Kumquats 1,Kumquats 1,1,,
+652,fruits-360/Test/Kumquats 1/r_131_100.jpg,Kumquats 1,Kumquats 1,1,,
+653,fruits-360/Test/Kumquats 1/282_100.jpg,Kumquats 1,Kumquats 1,1,,
+654,fruits-360/Test/Kumquats 1/293_100.jpg,Kumquats 1,Kumquats 1,1,,
+655,fruits-360/Test/Kumquats 1/133_100.jpg,Kumquats 1,Kumquats 1,1,,
+656,fruits-360/Test/Kumquats 1/r_14_100.jpg,Kumquats 1,Kumquats 1,1,,
+657,fruits-360/Test/Kumquats 1/155_100.jpg,Kumquats 1,Kumquats 1,1,,
+658,fruits-360/Test/Kumquats 1/143_100.jpg,Kumquats 1,Kumquats 1,1,,
+659,fruits-360/Test/Kumquats 1/r_189_100.jpg,Kumquats 1,Kumquats 1,1,,
+660,fruits-360/Test/Kumquats 1/135_100.jpg,Kumquats 1,Kumquats 1,1,,
+661,fruits-360/Test/Lemon 1/r_164_100.jpg,Lemon 1,Lemon 1,1,0.94,Count
+662,fruits-360/Test/Lemon 1/r_36_100.jpg,Lemon 1,Lemon 1,1,0.94,Count
+663,fruits-360/Test/Lemon 1/44_100.jpg,Lemon 1,Lemon 1,1,0.94,Count
+664,fruits-360/Test/Lemon 1/67_100.jpg,Lemon 1,Lemon 1,0.999999642,0.94,Count
+665,fruits-360/Test/Lemon 1/70_100.jpg,Lemon 1,Lemon 1,1,0.94,Count
+666,fruits-360/Test/Lemon 1/89_100.jpg,Lemon 1,Lemon 1,0.99999547,0.94,Count
+667,fruits-360/Test/Lemon 1/r_175_100.jpg,Lemon 1,Lemon 1,0.9997527,0.94,Count
+668,fruits-360/Test/Lemon 1/50_100.jpg,Lemon 1,Lemon 1,1,0.94,Count
+669,fruits-360/Test/Lemon 1/83_100.jpg,Lemon 1,Lemon 1,0.999999881,0.94,Count
+670,fruits-360/Test/Lemon 1/r_31_100.jpg,Lemon 1,Lemon 1,1,0.94,Count
+671,fruits-360/Test/Lemon Meyer 1/207_100.jpg,Lemon Meyer 1,Lemon Meyer 1,1,0.94,Count
+672,fruits-360/Test/Lemon Meyer 1/30_100.jpg,Lemon Meyer 1,Lemon Meyer 1,1,0.94,Count
+673,fruits-360/Test/Lemon Meyer 1/r_327_100.jpg,Lemon Meyer 1,Lemon Meyer 1,1,0.94,Count
+674,fruits-360/Test/Lemon Meyer 1/r_187_100.jpg,Lemon Meyer 1,Lemon Meyer 1,1,0.94,Count
+675,fruits-360/Test/Lemon Meyer 1/r_4_100.jpg,Lemon Meyer 1,Lemon Meyer 1,1,0.94,Count
+676,fruits-360/Test/Lemon Meyer 1/r_57_100.jpg,Lemon Meyer 1,Lemon Meyer 1,1,0.94,Count
+677,fruits-360/Test/Lemon Meyer 1/r_178_100.jpg,Lemon Meyer 1,Lemon Meyer 1,1,0.94,Count
+678,fruits-360/Test/Lemon Meyer 1/r_307_100.jpg,Lemon Meyer 1,Lemon Meyer 1,1,0.94,Count
+679,fruits-360/Test/Lemon Meyer 1/205_100.jpg,Lemon Meyer 1,Lemon Meyer 1,1,0.94,Count
+680,fruits-360/Test/Lemon Meyer 1/55_100.jpg,Lemon Meyer 1,Lemon Meyer 1,1,0.94,Count
+681,fruits-360/Test/Limes 1/r_82_100.jpg,Limes 1,Limes 1,1,1.99,Count
+682,fruits-360/Test/Limes 1/171_100.jpg,Limes 1,Limes 1,1,1.99,Count
+683,fruits-360/Test/Limes 1/r_222_100.jpg,Limes 1,Limes 1,1,1.99,Count
+684,fruits-360/Test/Limes 1/113_100.jpg,Limes 1,Limes 1,1,1.99,Count
+685,fruits-360/Test/Limes 1/138_100.jpg,Limes 1,Limes 1,0.999997139,1.99,Count
+686,fruits-360/Test/Limes 1/177_100.jpg,Limes 1,Limes 1,1,1.99,Count
+687,fruits-360/Test/Limes 1/247_100.jpg,Limes 1,Limes 1,1,1.99,Count
+688,fruits-360/Test/Limes 1/142_100.jpg,Limes 1,Limes 1,0.99992156,1.99,Count
+689,fruits-360/Test/Limes 1/r_214_100.jpg,Limes 1,Limes 1,1,1.99,Count
+690,fruits-360/Test/Limes 1/r_51_100.jpg,Limes 1,Limes 1,1,1.99,Count
+691,fruits-360/Test/Lychee 1/r_311_100.jpg,Lychee 1,Lychee 1,1,,
+692,fruits-360/Test/Lychee 1/r_193_100.jpg,Lychee 1,Lychee 1,1,,
+693,fruits-360/Test/Lychee 1/289_100.jpg,Lychee 1,Lychee 1,1,,
+694,fruits-360/Test/Lychee 1/293_100.jpg,Lychee 1,Lychee 1,1,,
+695,fruits-360/Test/Lychee 1/94_100.jpg,Lychee 1,Lychee 1,1,,
+696,fruits-360/Test/Lychee 1/9_100.jpg,Lychee 1,Lychee 1,1,,
+697,fruits-360/Test/Lychee 1/r_36_100.jpg,Lychee 1,Lychee 1,1,,
+698,fruits-360/Test/Lychee 1/r_320_100.jpg,Lychee 1,Lychee 1,1,,
+699,fruits-360/Test/Lychee 1/308_100.jpg,Lychee 1,Lychee 1,1,,
+700,fruits-360/Test/Lychee 1/r_9_100.jpg,Lychee 1,Lychee 1,1,,
+701,fruits-360/Test/Mandarine 1/r_83_100.jpg,Mandarine 1,Tangelo 1,1,,
+702,fruits-360/Test/Mandarine 1/r_84_100.jpg,Mandarine 1,Tangelo 1,1,,
+703,fruits-360/Test/Mandarine 1/254_100.jpg,Mandarine 1,Mandarine 1,1,,
+704,fruits-360/Test/Mandarine 1/r_49_100.jpg,Mandarine 1,Mandarine 1,1,,
+705,fruits-360/Test/Mandarine 1/r_90_100.jpg,Mandarine 1,Tangelo 1,1,,
+706,fruits-360/Test/Mandarine 1/r_80_100.jpg,Mandarine 1,Tangelo 1,1,,
+707,fruits-360/Test/Mandarine 1/233_100.jpg,Mandarine 1,Mandarine 1,1,,
+708,fruits-360/Test/Mandarine 1/248_100.jpg,Mandarine 1,Mandarine 1,1,,
+709,fruits-360/Test/Mandarine 1/r_64_100.jpg,Mandarine 1,Mandarine 1,1,,
+710,fruits-360/Test/Mandarine 1/r_105_100.jpg,Mandarine 1,Tangelo 1,0.747086585,,
+711,fruits-360/Test/Mango 1/r_15_100.jpg,Mango 1,Mango 1,1,2.99,Count
+712,fruits-360/Test/Mango 1/r_229_100.jpg,Mango 1,Mango 1,1,2.99,Count
+713,fruits-360/Test/Mango 1/261_100.jpg,Mango 1,Mango 1,1,2.99,Count
+714,fruits-360/Test/Mango 1/r_227_100.jpg,Mango 1,Mango 1,1,2.99,Count
+715,fruits-360/Test/Mango 1/r_234_100.jpg,Mango 1,Mango 1,1,2.99,Count
+716,fruits-360/Test/Mango 1/157_100.jpg,Mango 1,Mango 1,1,2.99,Count
+717,fruits-360/Test/Mango 1/r_238_100.jpg,Mango 1,Mango 1,1,2.99,Count
+718,fruits-360/Test/Mango 1/270_100.jpg,Mango 1,Mango 1,1,2.99,Count
+719,fruits-360/Test/Mango 1/r_216_100.jpg,Mango 1,Mango 1,1,2.99,Count
+720,fruits-360/Test/Mango 1/306_100.jpg,Mango 1,Mango 1,1,2.99,Count
+721,fruits-360/Test/Mango Red 1/r_259_100.jpg,Mango Red 1,Mango Red 1,1,2.99,Count
+722,fruits-360/Test/Mango Red 1/246_100.jpg,Mango Red 1,Mango Red 1,1,2.99,Count
+723,fruits-360/Test/Mango Red 1/r_195_100.jpg,Mango Red 1,Mango Red 1,0.996450067,2.99,Count
+724,fruits-360/Test/Mango Red 1/114_100.jpg,Mango Red 1,Mango Red 1,1,2.99,Count
+725,fruits-360/Test/Mango Red 1/252_100.jpg,Mango Red 1,Mango Red 1,1,2.99,Count
+726,fruits-360/Test/Mango Red 1/r_202_100.jpg,Mango Red 1,Mango Red 1,0.999985099,2.99,Count
+727,fruits-360/Test/Mango Red 1/255_100.jpg,Mango Red 1,Mango Red 1,1,2.99,Count
+728,fruits-360/Test/Mango Red 1/r_200_100.jpg,Mango Red 1,Mango Red 1,0.986127973,2.99,Count
+729,fruits-360/Test/Mango Red 1/r_187_100.jpg,Mango Red 1,Cherry Wax Red 1,0.824282885,2.99,Count
+730,fruits-360/Test/Mango Red 1/r_207_100.jpg,Mango Red 1,Mango Red 1,1,2.99,Count
+731,fruits-360/Test/Mangostan 1/152_100.jpg,Mangostan 1,Mangostan 1,1,2.99,Count
+732,fruits-360/Test/Mangostan 1/165_100.jpg,Mangostan 1,Mangostan 1,1,2.99,Count
+733,fruits-360/Test/Mangostan 1/r_110_100.jpg,Mangostan 1,Mangostan 1,0.999031663,2.99,Count
+734,fruits-360/Test/Mangostan 1/r_94_100.jpg,Mangostan 1,Mangostan 1,1,2.99,Count
+735,fruits-360/Test/Mangostan 1/151_100.jpg,Mangostan 1,Mangostan 1,1,2.99,Count
+736,fruits-360/Test/Mangostan 1/r_131_100.jpg,Mangostan 1,Mangostan 1,1,2.99,Count
+737,fruits-360/Test/Mangostan 1/r_113_100.jpg,Mangostan 1,Mangostan 1,0.999992847,2.99,Count
+738,fruits-360/Test/Mangostan 1/r_88_100.jpg,Mangostan 1,Mangostan 1,0.999999881,2.99,Count
+739,fruits-360/Test/Mangostan 1/r_122_100.jpg,Mangostan 1,Grape Pink 1,0.735552847,2.99,Count
+740,fruits-360/Test/Mangostan 1/45_100.jpg,Mangostan 1,Mangostan 1,1,2.99,Count
+741,fruits-360/Test/Maracuja 1/r_188_100.jpg,Maracuja 1,Maracuja 1,0.986523807,,
+742,fruits-360/Test/Maracuja 1/110_100.jpg,Maracuja 1,Maracuja 1,1,,
+743,fruits-360/Test/Maracuja 1/r_205_100.jpg,Maracuja 1,Maracuja 1,0.965518057,,
+744,fruits-360/Test/Maracuja 1/r_194_100.jpg,Maracuja 1,Maracuja 1,0.566219926,,
+745,fruits-360/Test/Maracuja 1/120_100.jpg,Maracuja 1,Maracuja 1,1,,
+746,fruits-360/Test/Maracuja 1/r_68_100.jpg,Maracuja 1,Maracuja 1,1,,
+747,fruits-360/Test/Maracuja 1/r_180_100.jpg,Maracuja 1,Maracuja 1,1,,
+748,fruits-360/Test/Maracuja 1/97_100.jpg,Maracuja 1,Maracuja 1,1,,
+749,fruits-360/Test/Maracuja 1/r_222_100.jpg,Maracuja 1,Maracuja 1,1,,
+750,fruits-360/Test/Maracuja 1/r_186_100.jpg,Maracuja 1,Maracuja 1,0.837811947,,
+751,fruits-360/Test/Melon Piel de Sapo 1/247_100.jpg,Melon Piel de Sapo 1,Melon Piel de Sapo 1,1,0.9,Lb
+752,fruits-360/Test/Melon Piel de Sapo 1/r2_252_100.jpg,Melon Piel de Sapo 1,Melon Piel de Sapo 1,1,0.9,Lb
+753,fruits-360/Test/Melon Piel de Sapo 1/295_100.jpg,Melon Piel de Sapo 1,Melon Piel de Sapo 1,1,0.9,Lb
+754,fruits-360/Test/Melon Piel de Sapo 1/r_142_100.jpg,Melon Piel de Sapo 1,Melon Piel de Sapo 1,0.999999762,0.9,Lb
+755,fruits-360/Test/Melon Piel de Sapo 1/280_100.jpg,Melon Piel de Sapo 1,Melon Piel de Sapo 1,1,0.9,Lb
+756,fruits-360/Test/Melon Piel de Sapo 1/r2_126_100.jpg,Melon Piel de Sapo 1,Melon Piel de Sapo 1,1,0.9,Lb
+757,fruits-360/Test/Melon Piel de Sapo 1/r2_256_100.jpg,Melon Piel de Sapo 1,Melon Piel de Sapo 1,1,0.9,Lb
+758,fruits-360/Test/Melon Piel de Sapo 1/r2_267_100.jpg,Melon Piel de Sapo 1,Melon Piel de Sapo 1,1,0.9,Lb
+759,fruits-360/Test/Melon Piel de Sapo 1/r2_284_100.jpg,Melon Piel de Sapo 1,Melon Piel de Sapo 1,1,0.9,Lb
+760,fruits-360/Test/Melon Piel de Sapo 1/r2_129_100.jpg,Melon Piel de Sapo 1,Melon Piel de Sapo 1,1,0.9,Lb
+761,fruits-360/Test/Mulberry 1/r_266_100.jpg,Mulberry 1,Mulberry 1,1,,
+762,fruits-360/Test/Mulberry 1/243_100.jpg,Mulberry 1,Mulberry 1,0.973646581,,
+763,fruits-360/Test/Mulberry 1/206_100.jpg,Mulberry 1,Mulberry 1,1,,
+764,fruits-360/Test/Mulberry 1/r_301_100.jpg,Mulberry 1,Mulberry 1,1,,
+765,fruits-360/Test/Mulberry 1/r_296_100.jpg,Mulberry 1,Mulberry 1,1,,
+766,fruits-360/Test/Mulberry 1/r_248_100.jpg,Mulberry 1,Mulberry 1,1,,
+767,fruits-360/Test/Mulberry 1/r_252_100.jpg,Mulberry 1,Mulberry 1,1,,
+768,fruits-360/Test/Mulberry 1/r_122_100.jpg,Mulberry 1,Mulberry 1,1,,
+769,fruits-360/Test/Mulberry 1/r_208_100.jpg,Mulberry 1,Mulberry 1,1,,
+770,fruits-360/Test/Mulberry 1/r_104_100.jpg,Mulberry 1,Mulberry 1,1,,
+771,fruits-360/Test/Nectarine 1/r_76_100.jpg,Nectarine 1,Nectarine 1,0.999966145,,
+772,fruits-360/Test/Nectarine 1/68_100.jpg,Nectarine 1,Apple Red Yellow 1,0.849815011,,
+773,fruits-360/Test/Nectarine 1/78_100.jpg,Nectarine 1,Apple Red Yellow 1,0.999949217,,
+774,fruits-360/Test/Nectarine 1/r_41_100.jpg,Nectarine 1,Nectarine 1,0.997354388,,
+775,fruits-360/Test/Nectarine 1/r_326_100.jpg,Nectarine 1,Nectarine 1,1,,
+776,fruits-360/Test/Nectarine 1/87_100.jpg,Nectarine 1,Nectarine 1,0.999985695,,
+777,fruits-360/Test/Nectarine 1/72_100.jpg,Nectarine 1,Apple Red Yellow 1,0.999999881,,
+778,fruits-360/Test/Nectarine 1/325_100.jpg,Nectarine 1,Nectarine 1,1,,
+779,fruits-360/Test/Nectarine 1/r_95_100.jpg,Nectarine 1,Nectarine 1,1,,
+780,fruits-360/Test/Nectarine 1/71_100.jpg,Nectarine 1,Apple Red Yellow 1,0.999740064,,
+781,fruits-360/Test/Nectarine Flat 1/r2_169_100.jpg,Nectarine Flat 1,Nectarine Flat 1,0.999997258,,
+782,fruits-360/Test/Nectarine Flat 1/59_100.jpg,Nectarine Flat 1,Nectarine Flat 1,1,,
+783,fruits-360/Test/Nectarine Flat 1/r_15_100.jpg,Nectarine Flat 1,Tomato 1,0.704369843,,
+784,fruits-360/Test/Nectarine Flat 1/r2_180_100.jpg,Nectarine Flat 1,Nectarine Flat 1,0.815900624,,
+785,fruits-360/Test/Nectarine Flat 1/r2_173_100.jpg,Nectarine Flat 1,Nectarine Flat 1,0.999990106,,
+786,fruits-360/Test/Nectarine Flat 1/90_100.jpg,Nectarine Flat 1,Nectarine Flat 1,1,,
+787,fruits-360/Test/Nectarine Flat 1/r2_73_100.jpg,Nectarine Flat 1,Nectarine Flat 1,1,,
+788,fruits-360/Test/Nectarine Flat 1/r_112_100.jpg,Nectarine Flat 1,Nectarine Flat 1,1,,
+789,fruits-360/Test/Nectarine Flat 1/r_18_100.jpg,Nectarine Flat 1,Nectarine Flat 1,0.999999762,,
+790,fruits-360/Test/Nectarine Flat 1/r2_78_100.jpg,Nectarine Flat 1,Nectarine Flat 1,1,,
+791,fruits-360/Test/Nut Forest 1/r2_86_100.jpg,Nut Forest 1,Nut Forest 1,1,,
+792,fruits-360/Test/Nut Forest 1/r_99_100.jpg,Nut Forest 1,Nut Forest 1,1,,
+793,fruits-360/Test/Nut Forest 1/130_100.jpg,Nut Forest 1,Nut Forest 1,1,,
+794,fruits-360/Test/Nut Forest 1/328_100.jpg,Nut Forest 1,Nut Forest 1,1,,
+795,fruits-360/Test/Nut Forest 1/r_53_100.jpg,Nut Forest 1,Nut Forest 1,0.999998093,,
+796,fruits-360/Test/Nut Forest 1/212_100.jpg,Nut Forest 1,Nut Forest 1,1,,
+797,fruits-360/Test/Nut Forest 1/344_100.jpg,Nut Forest 1,Nut Forest 1,1,,
+798,fruits-360/Test/Nut Forest 1/115_100.jpg,Nut Forest 1,Nut Forest 1,1,,
+799,fruits-360/Test/Nut Forest 1/r2_68_100.jpg,Nut Forest 1,Nut Forest 1,1,,
+800,fruits-360/Test/Nut Forest 1/r2_113_100.jpg,Nut Forest 1,Nut Forest 1,1,,
+801,fruits-360/Test/Nut Pecan 1/r_124_100.jpg,Nut Pecan 1,Nut Pecan 1,0.968058884,,
+802,fruits-360/Test/Nut Pecan 1/222_100.jpg,Nut Pecan 1,Nut Pecan 1,1,,
+803,fruits-360/Test/Nut Pecan 1/214_100.jpg,Nut Pecan 1,Nut Pecan 1,1,,
+804,fruits-360/Test/Nut Pecan 1/80_100.jpg,Nut Pecan 1,Nut Pecan 1,1,,
+805,fruits-360/Test/Nut Pecan 1/235_100.jpg,Nut Pecan 1,Nut Pecan 1,1,,
+806,fruits-360/Test/Nut Pecan 1/225_100.jpg,Nut Pecan 1,Nut Pecan 1,1,,
+807,fruits-360/Test/Nut Pecan 1/r2_161_100.jpg,Nut Pecan 1,Granadilla 1,0.906481683,,
+808,fruits-360/Test/Nut Pecan 1/r_22_100.jpg,Nut Pecan 1,Plum 2,0.97802937,,
+809,fruits-360/Test/Nut Pecan 1/45_100.jpg,Nut Pecan 1,Nut Pecan 1,1,,
+810,fruits-360/Test/Nut Pecan 1/r2_160_100.jpg,Nut Pecan 1,Salak 1,0.786150277,,
+811,fruits-360/Test/Onion Red 1/r2_174_100.jpg,Onion Red 1,Onion Red 1,1,,
+812,fruits-360/Test/Onion Red 1/r2_104_100.jpg,Onion Red 1,Onion Red 1,1,,
+813,fruits-360/Test/Onion Red 1/r2_186_100.jpg,Onion Red 1,Onion Red 1,0.977474868,,
+814,fruits-360/Test/Onion Red 1/154_100.jpg,Onion Red 1,Onion Red 1,1,,
+815,fruits-360/Test/Onion Red 1/165_100.jpg,Onion Red 1,Onion Red 1,1,,
+816,fruits-360/Test/Onion Red 1/184_100.jpg,Onion Red 1,Onion Red 1,1,,
+817,fruits-360/Test/Onion Red 1/r_61_100.jpg,Onion Red 1,Onion Red 1,1,,
+818,fruits-360/Test/Onion Red 1/174_100.jpg,Onion Red 1,Onion Red 1,1,,
+819,fruits-360/Test/Onion Red 1/r_62_100.jpg,Onion Red 1,Onion Red 1,1,,
+820,fruits-360/Test/Onion Red 1/r2_190_100.jpg,Onion Red 1,Onion Red 1,0.960862219,,
+821,fruits-360/Test/Onion Red Peeled 1/71_100.jpg,Onion Red Peeled 1,Onion Red Peeled 1,1,,
+822,fruits-360/Test/Onion Red Peeled 1/r2_169_100.jpg,Onion Red Peeled 1,Onion Red Peeled 1,1,,
+823,fruits-360/Test/Onion Red Peeled 1/21_100.jpg,Onion Red Peeled 1,Onion Red Peeled 1,1,,
+824,fruits-360/Test/Onion Red Peeled 1/r2_51_100.jpg,Onion Red Peeled 1,Onion Red Peeled 1,1,,
+825,fruits-360/Test/Onion Red Peeled 1/r2_195_100.jpg,Onion Red Peeled 1,Onion Red Peeled 1,1,,
+826,fruits-360/Test/Onion Red Peeled 1/r_188_100.jpg,Onion Red Peeled 1,Onion Red Peeled 1,1,,
+827,fruits-360/Test/Onion Red Peeled 1/r_184_100.jpg,Onion Red Peeled 1,Onion Red Peeled 1,1,,
+828,fruits-360/Test/Onion Red Peeled 1/32_100.jpg,Onion Red Peeled 1,Onion Red Peeled 1,1,,
+829,fruits-360/Test/Onion Red Peeled 1/r_106_100.jpg,Onion Red Peeled 1,Onion Red Peeled 1,1,,
+830,fruits-360/Test/Onion Red Peeled 1/r2_181_100.jpg,Onion Red Peeled 1,Onion Red Peeled 1,0.992246985,,
+831,fruits-360/Test/Onion White 1/r2_178_100.jpg,Onion White 1,Onion White 1,1,,
+832,fruits-360/Test/Onion White 1/r2_2_100.jpg,Onion White 1,Onion White 1,0.999994874,,
+833,fruits-360/Test/Onion White 1/r_169_100.jpg,Onion White 1,Apple Pink Lady 1,0.9989779,,
+834,fruits-360/Test/Onion White 1/r_4_100.jpg,Onion White 1,Onion White 1,1,,
+835,fruits-360/Test/Onion White 1/r2_7_100.jpg,Onion White 1,Onion White 1,0.643683374,,
+836,fruits-360/Test/Onion White 1/r_177_100.jpg,Onion White 1,Onion White 1,0.720682263,,
+837,fruits-360/Test/Onion White 1/r_5_100.jpg,Onion White 1,Onion White 1,1,,
+838,fruits-360/Test/Onion White 1/174_100.jpg,Onion White 1,Onion White 1,1,,
+839,fruits-360/Test/Onion White 1/r2_18_100.jpg,Onion White 1,Onion White 1,1,,
+840,fruits-360/Test/Onion White 1/130_100.jpg,Onion White 1,Onion White 1,0.999999404,,
+841,fruits-360/Test/Orange 1/85_100.jpg,Orange 1,Orange 1,1,1.26,Lb
+842,fruits-360/Test/Orange 1/61_100.jpg,Orange 1,Orange 1,1,1.26,Lb
+843,fruits-360/Test/Orange 1/38_100.jpg,Orange 1,Orange 1,1,1.26,Lb
+844,fruits-360/Test/Orange 1/r_63_100.jpg,Orange 1,Orange 1,1,1.26,Lb
+845,fruits-360/Test/Orange 1/6_100.jpg,Orange 1,Orange 1,1,1.26,Lb
+846,fruits-360/Test/Orange 1/r_89_100.jpg,Orange 1,Orange 1,1,1.26,Lb
+847,fruits-360/Test/Orange 1/r_35_100.jpg,Orange 1,Orange 1,1,1.26,Lb
+848,fruits-360/Test/Orange 1/93_100.jpg,Orange 1,Orange 1,1,1.26,Lb
+849,fruits-360/Test/Orange 1/r_83_100.jpg,Orange 1,Orange 1,1,1.26,Lb
+850,fruits-360/Test/Orange 1/r_64_100.jpg,Orange 1,Orange 1,1,1.26,Lb
+851,fruits-360/Test/Papaya 1/3_100.jpg,Papaya 1,Papaya 1,1,,
+852,fruits-360/Test/Papaya 1/57_100.jpg,Papaya 1,Papaya 1,1,,
+853,fruits-360/Test/Papaya 1/r_325_100.jpg,Papaya 1,Papaya 1,1,,
+854,fruits-360/Test/Papaya 1/r_71_100.jpg,Papaya 1,Papaya 1,1,,
+855,fruits-360/Test/Papaya 1/85_100.jpg,Papaya 1,Papaya 1,1,,
+856,fruits-360/Test/Papaya 1/r_41_100.jpg,Papaya 1,Papaya 1,1,,
+857,fruits-360/Test/Papaya 1/r_326_100.jpg,Papaya 1,Papaya 1,1,,
+858,fruits-360/Test/Papaya 1/321_100.jpg,Papaya 1,Papaya 1,1,,
+859,fruits-360/Test/Papaya 1/r_322_100.jpg,Papaya 1,Papaya 1,1,,
+860,fruits-360/Test/Papaya 1/74_100.jpg,Papaya 1,Papaya 1,0.999974489,,
+861,fruits-360/Test/Passion Fruit 1/138_100.jpg,Passion Fruit 1,Passion Fruit 1,1,,
+862,fruits-360/Test/Passion Fruit 1/r_25_100.jpg,Passion Fruit 1,Passion Fruit 1,0.99999249,,
+863,fruits-360/Test/Passion Fruit 1/107_100.jpg,Passion Fruit 1,Passion Fruit 1,1,,
+864,fruits-360/Test/Passion Fruit 1/r_26_100.jpg,Passion Fruit 1,Passion Fruit 1,0.999985933,,
+865,fruits-360/Test/Passion Fruit 1/r_284_100.jpg,Passion Fruit 1,Passion Fruit 1,1,,
+866,fruits-360/Test/Passion Fruit 1/r_291_100.jpg,Passion Fruit 1,Passion Fruit 1,1,,
+867,fruits-360/Test/Passion Fruit 1/r_294_100.jpg,Passion Fruit 1,Passion Fruit 1,1,,
+868,fruits-360/Test/Passion Fruit 1/r_304_100.jpg,Passion Fruit 1,Passion Fruit 1,1,,
+869,fruits-360/Test/Passion Fruit 1/143_100.jpg,Passion Fruit 1,Passion Fruit 1,1,,
+870,fruits-360/Test/Passion Fruit 1/r_288_100.jpg,Passion Fruit 1,Passion Fruit 1,1,,
+871,fruits-360/Test/Peach 1/r_52_100.jpg,Peach 1,Nectarine 1,0.999398112,2.84,Lb
+872,fruits-360/Test/Peach 1/r_43_100.jpg,Peach 1,Nectarine 1,0.979056597,2.84,Lb
+873,fruits-360/Test/Peach 1/r_56_100.jpg,Peach 1,Nectarine 1,0.999998689,2.84,Lb
+874,fruits-360/Test/Peach 1/r_65_100.jpg,Peach 1,Nectarine 1,0.981707513,2.84,Lb
+875,fruits-360/Test/Peach 1/37_100.jpg,Peach 1,Peach 1,1,2.84,Lb
+876,fruits-360/Test/Peach 1/59_100.jpg,Peach 1,Peach 1,1,2.84,Lb
+877,fruits-360/Test/Peach 1/70_100.jpg,Peach 1,Peach 1,1,2.84,Lb
+878,fruits-360/Test/Peach 1/r_98_100.jpg,Peach 1,Peach 1,1,2.84,Lb
+879,fruits-360/Test/Peach 1/r_5_100.jpg,Peach 1,Nectarine 1,0.954135418,2.84,Lb
+880,fruits-360/Test/Peach 1/49_100.jpg,Peach 1,Orange 1,0.755678236,2.84,Lb
+881,fruits-360/Test/Peach 2/r2_205_100.jpg,Peach 2,Peach 2,1,2.84,Lb
+882,fruits-360/Test/Peach 2/r2_199_100.jpg,Peach 2,Peach 2,1,2.84,Lb
+883,fruits-360/Test/Peach 2/r2_179_100.jpg,Peach 2,Peach 2,1,2.84,Lb
+884,fruits-360/Test/Peach 2/92_100.jpg,Peach 2,Peach 2,1,2.84,Lb
+885,fruits-360/Test/Peach 2/r2_201_100.jpg,Peach 2,Peach 2,1,2.84,Lb
+886,fruits-360/Test/Peach 2/r_325_100.jpg,Peach 2,Peach 2,1,2.84,Lb
+887,fruits-360/Test/Peach 2/98_100.jpg,Peach 2,Peach 2,1,2.84,Lb
+888,fruits-360/Test/Peach 2/r2_25_100.jpg,Peach 2,Peach 2,1,2.84,Lb
+889,fruits-360/Test/Peach 2/r2_218_100.jpg,Peach 2,Peach 2,1,2.84,Lb
+890,fruits-360/Test/Peach 2/93_100.jpg,Peach 2,Peach 2,1,2.84,Lb
+891,fruits-360/Test/Peach Flat 1/86_100.jpg,Peach Flat 1,Peach Flat 1,1,2.84,Lb
+892,fruits-360/Test/Peach Flat 1/r_68_100.jpg,Peach Flat 1,Carambula 1,0.343717605,2.84,Lb
+893,fruits-360/Test/Peach Flat 1/56_100.jpg,Peach Flat 1,Cucumber Ripe 2,0.996305227,2.84,Lb
+894,fruits-360/Test/Peach Flat 1/78_100.jpg,Peach Flat 1,Peach Flat 1,1,2.84,Lb
+895,fruits-360/Test/Peach Flat 1/82_100.jpg,Peach Flat 1,Peach Flat 1,1,2.84,Lb
+896,fruits-360/Test/Peach Flat 1/92_100.jpg,Peach Flat 1,Peach Flat 1,1,2.84,Lb
+897,fruits-360/Test/Peach Flat 1/r_40_100.jpg,Peach Flat 1,Peach Flat 1,1,2.84,Lb
+898,fruits-360/Test/Peach Flat 1/r_9_100.jpg,Peach Flat 1,Peach Flat 1,1,2.84,Lb
+899,fruits-360/Test/Peach Flat 1/r_325_100.jpg,Peach Flat 1,Peach Flat 1,1,2.84,Lb
+900,fruits-360/Test/Peach Flat 1/34_100.jpg,Peach Flat 1,Peach Flat 1,0.999873519,2.84,Lb
+901,fruits-360/Test/Pear 1/84_100.jpg,Pear 1,Pear 1,0.999994516,0.94,Lb
+902,fruits-360/Test/Pear 1/51_100.jpg,Pear 1,Pear 1,0.999974608,0.94,Lb
+903,fruits-360/Test/Pear 1/59_100.jpg,Pear 1,Pear 1,0.999985099,0.94,Lb
+904,fruits-360/Test/Pear 1/r_55_100.jpg,Pear 1,Guava 1,0.99489671,0.94,Lb
+905,fruits-360/Test/Pear 1/r_77_100.jpg,Pear 1,Plum 3,0.777593315,0.94,Lb
+906,fruits-360/Test/Pear 1/r_95_100.jpg,Pear 1,Pear 1,0.999990702,0.94,Lb
+907,fruits-360/Test/Pear 1/r_65_100.jpg,Pear 1,Guava 1,0.39057377,0.94,Lb
+908,fruits-360/Test/Pear 1/r_9_100.jpg,Pear 1,Pear 1,0.999987841,0.94,Lb
+909,fruits-360/Test/Pear 1/46_100.jpg,Pear 1,Pear 1,0.948108196,0.94,Lb
+910,fruits-360/Test/Pear 1/73_100.jpg,Pear 1,Pear 1,0.999939322,0.94,Lb
+911,fruits-360/Test/Pear 2/34_100.jpg,Pear 2,Pear 2,1,,
+912,fruits-360/Test/Pear 2/r_243_100.jpg,Pear 2,Onion White 1,0.999989033,,
+913,fruits-360/Test/Pear 2/r_238_100.jpg,Pear 2,Onion White 1,0.80336237,,
+914,fruits-360/Test/Pear 2/r_86_100.jpg,Pear 2,Pear 2,0.999958634,,
+915,fruits-360/Test/Pear 2/r2_113_100.jpg,Pear 2,Onion White 1,1,,
+916,fruits-360/Test/Pear 2/r_274_100.jpg,Pear 2,Onion Red 1,0.961631,,
+917,fruits-360/Test/Pear 2/271_100.jpg,Pear 2,Pear 2,1,,
+918,fruits-360/Test/Pear 2/r_284_100.jpg,Pear 2,Pear 2,1,,
+919,fruits-360/Test/Pear 2/r_273_100.jpg,Pear 2,Onion Red 1,0.962066054,,
+920,fruits-360/Test/Pear 2/r_239_100.jpg,Pear 2,Onion White 1,0.97642684,,
+921,fruits-360/Test/Pear 3/r0_71_100.jpg,Pear 3,Pear 3,1,,
+922,fruits-360/Test/Pear 3/r0_235_100.jpg,Pear 3,Pear 3,1,,
+923,fruits-360/Test/Pear 3/r0_307_100.jpg,Pear 3,Pear 3,1,,
+924,fruits-360/Test/Pear 3/r0_255_100.jpg,Pear 3,Pear 3,1,,
+925,fruits-360/Test/Pear 3/r0_247_100.jpg,Pear 3,Pear 3,1,,
+926,fruits-360/Test/Pear 3/r0_283_100.jpg,Pear 3,Pear 3,1,,
+927,fruits-360/Test/Pear 3/r0_295_100.jpg,Pear 3,Pear 3,1,,
+928,fruits-360/Test/Pear 3/r0_67_100.jpg,Pear 3,Pear 3,1,,
+929,fruits-360/Test/Pear 3/r0_243_100.jpg,Pear 3,Pear 3,1,,
+930,fruits-360/Test/Pear 3/r0_39_100.jpg,Pear 3,Pear 3,1,,
+931,fruits-360/Test/Pear Abate 1/r_71_100.jpg,Pear Abate 1,Pear Abate 1,0.980892003,0.85,Lb
+932,fruits-360/Test/Pear Abate 1/r_317_100.jpg,Pear Abate 1,Pear Abate 1,1,0.85,Lb
+933,fruits-360/Test/Pear Abate 1/254_100.jpg,Pear Abate 1,Pear Abate 1,1,0.85,Lb
+934,fruits-360/Test/Pear Abate 1/267_100.jpg,Pear Abate 1,Pear Abate 1,1,0.85,Lb
+935,fruits-360/Test/Pear Abate 1/r_96_100.jpg,Pear Abate 1,Banana Red 1,0.853548467,0.85,Lb
+936,fruits-360/Test/Pear Abate 1/301_100.jpg,Pear Abate 1,Pear Abate 1,1,0.85,Lb
+937,fruits-360/Test/Pear Abate 1/r_315_100.jpg,Pear Abate 1,Pear Abate 1,1,0.85,Lb
+938,fruits-360/Test/Pear Abate 1/252_100.jpg,Pear Abate 1,Pear Abate 1,1,0.85,Lb
+939,fruits-360/Test/Pear Abate 1/r_94_100.jpg,Pear Abate 1,Pear Williams 1,0.905236423,0.85,Lb
+940,fruits-360/Test/Pear Abate 1/278_100.jpg,Pear Abate 1,Pear Abate 1,1,0.85,Lb
+941,fruits-360/Test/Pear Forelle 1/r2_163_100.jpg,Pear Forelle 1,Pear Forelle 1,1,,
+942,fruits-360/Test/Pear Forelle 1/200_100.jpg,Pear Forelle 1,Pear Forelle 1,0.999999881,,
+943,fruits-360/Test/Pear Forelle 1/185_100.jpg,Pear Forelle 1,Pear Forelle 1,0.999995112,,
+944,fruits-360/Test/Pear Forelle 1/r2_184_100.jpg,Pear Forelle 1,Pear Forelle 1,1,,
+945,fruits-360/Test/Pear Forelle 1/r2_133_100.jpg,Pear Forelle 1,Pear Forelle 1,1,,
+946,fruits-360/Test/Pear Forelle 1/78_100.jpg,Pear Forelle 1,Pear Forelle 1,0.999992967,,
+947,fruits-360/Test/Pear Forelle 1/102_100.jpg,Pear Forelle 1,Pear Forelle 1,1,,
+948,fruits-360/Test/Pear Forelle 1/r_120_100.jpg,Pear Forelle 1,Pear Forelle 1,1,,
+949,fruits-360/Test/Pear Forelle 1/r2_136_100.jpg,Pear Forelle 1,Pear Forelle 1,1,,
+950,fruits-360/Test/Pear Forelle 1/r_173_100.jpg,Pear Forelle 1,Pear Forelle 1,0.999813259,,
+951,fruits-360/Test/Pear Kaiser 1/r_14_100.jpg,Pear Kaiser 1,Pear Kaiser 1,1,,
+952,fruits-360/Test/Pear Kaiser 1/141_100.jpg,Pear Kaiser 1,Pear Kaiser 1,1,,
+953,fruits-360/Test/Pear Kaiser 1/r_21_100.jpg,Pear Kaiser 1,Pear Kaiser 1,1,,
+954,fruits-360/Test/Pear Kaiser 1/r_9_100.jpg,Pear Kaiser 1,Pear Kaiser 1,1,,
+955,fruits-360/Test/Pear Kaiser 1/152_100.jpg,Pear Kaiser 1,Pear Kaiser 1,1,,
+956,fruits-360/Test/Pear Kaiser 1/3_100.jpg,Pear Kaiser 1,Pear Kaiser 1,1,,
+957,fruits-360/Test/Pear Kaiser 1/r_198_100.jpg,Pear Kaiser 1,Pear Kaiser 1,1,,
+958,fruits-360/Test/Pear Kaiser 1/145_100.jpg,Pear Kaiser 1,Pear Kaiser 1,1,,
+959,fruits-360/Test/Pear Kaiser 1/r_7_100.jpg,Pear Kaiser 1,Pear Kaiser 1,1,,
+960,fruits-360/Test/Pear Kaiser 1/13_100.jpg,Pear Kaiser 1,Pear Kaiser 1,1,,
+961,fruits-360/Test/Pear Monster 1/72_100.jpg,Pear Monster 1,Pear Monster 1,1,,
+962,fruits-360/Test/Pear Monster 1/r_185_100.jpg,Pear Monster 1,Pear Williams 1,0.755349636,,
+963,fruits-360/Test/Pear Monster 1/220_100.jpg,Pear Monster 1,Pear Monster 1,1,,
+964,fruits-360/Test/Pear Monster 1/85_100.jpg,Pear Monster 1,Pear Monster 1,1,,
+965,fruits-360/Test/Pear Monster 1/59_100.jpg,Pear Monster 1,Pear Monster 1,1,,
+966,fruits-360/Test/Pear Monster 1/r_206_100.jpg,Pear Monster 1,Pear Monster 1,0.998538733,,
+967,fruits-360/Test/Pear Monster 1/89_100.jpg,Pear Monster 1,Pear Monster 1,1,,
+968,fruits-360/Test/Pear Monster 1/98_100.jpg,Pear Monster 1,Pear Monster 1,1,,
+969,fruits-360/Test/Pear Monster 1/81_100.jpg,Pear Monster 1,Pear Monster 1,1,,
+970,fruits-360/Test/Pear Monster 1/r_182_100.jpg,Pear Monster 1,Cactus fruit 1,0.762658954,,
+971,fruits-360/Test/Pear Red 1/196_100.jpg,Pear Red 1,Pear Red 1,1,,
+972,fruits-360/Test/Pear Red 1/r_117_100.jpg,Pear Red 1,Pear Red 1,0.999527454,,
+973,fruits-360/Test/Pear Red 1/258_100.jpg,Pear Red 1,Pear Red 1,1,,
+974,fruits-360/Test/Pear Red 1/r_102_100.jpg,Pear Red 1,Pear Red 1,0.999348223,,
+975,fruits-360/Test/Pear Red 1/r2_105_100.jpg,Pear Red 1,Pear Red 1,0.842589498,,
+976,fruits-360/Test/Pear Red 1/r2_130_100.jpg,Pear Red 1,Lemon Meyer 1,0.739792824,,
+977,fruits-360/Test/Pear Red 1/r_126_100.jpg,Pear Red 1,Pear Red 1,0.999924064,,
+978,fruits-360/Test/Pear Red 1/241_100.jpg,Pear Red 1,Pear Red 1,1,,
+979,fruits-360/Test/Pear Red 1/r2_142_100.jpg,Pear Red 1,Pear Red 1,0.998084903,,
+980,fruits-360/Test/Pear Red 1/r_112_100.jpg,Pear Red 1,Pear Red 1,0.999622583,,
+981,fruits-360/Test/Pear Stone 1/r_50_100.jpg,Pear Stone 1,Pear Stone 1,1,,
+982,fruits-360/Test/Pear Stone 1/268_100.jpg,Pear Stone 1,Pear Stone 1,1,,
+983,fruits-360/Test/Pear Stone 1/r_191_100.jpg,Pear Stone 1,Fig 1,0.98477608,,
+984,fruits-360/Test/Pear Stone 1/294_100.jpg,Pear Stone 1,Pear Stone 1,1,,
+985,fruits-360/Test/Pear Stone 1/265_100.jpg,Pear Stone 1,Pear Stone 1,1,,
+986,fruits-360/Test/Pear Stone 1/r2_18_100.jpg,Pear Stone 1,Pear Stone 1,0.99978739,,
+987,fruits-360/Test/Pear Stone 1/141_100.jpg,Pear Stone 1,Pear Stone 1,0.999976397,,
+988,fruits-360/Test/Pear Stone 1/r2_164_100.jpg,Pear Stone 1,Pear Stone 1,1,,
+989,fruits-360/Test/Pear Stone 1/245_100.jpg,Pear Stone 1,Pear Stone 1,1,,
+990,fruits-360/Test/Pear Stone 1/257_100.jpg,Pear Stone 1,Pear Stone 1,1,,
+991,fruits-360/Test/Pear Williams 1/251_100.jpg,Pear Williams 1,Pear Williams 1,0.999996901,,
+992,fruits-360/Test/Pear Williams 1/249_100.jpg,Pear Williams 1,Pear Williams 1,0.999989867,,
+993,fruits-360/Test/Pear Williams 1/r_227_100.jpg,Pear Williams 1,Pear Williams 1,1,,
+994,fruits-360/Test/Pear Williams 1/r_253_100.jpg,Pear Williams 1,Pear Williams 1,0.995386422,,
+995,fruits-360/Test/Pear Williams 1/r_246_100.jpg,Pear Williams 1,Pear Williams 1,0.988497615,,
+996,fruits-360/Test/Pear Williams 1/r_229_100.jpg,Pear Williams 1,Pear Williams 1,0.999999881,,
+997,fruits-360/Test/Pear Williams 1/r_131_100.jpg,Pear Williams 1,Pear Williams 1,1,,
+998,fruits-360/Test/Pear Williams 1/r_234_100.jpg,Pear Williams 1,Pear Williams 1,0.999961019,,
+999,fruits-360/Test/Pear Williams 1/260_100.jpg,Pear Williams 1,Pear Williams 1,0.999998808,,
+1000,fruits-360/Test/Pear Williams 1/r_264_100.jpg,Pear Williams 1,Pear Williams 1,1,,
+1001,fruits-360/Test/Pepino 1/r_211_100.jpg,Pepino 1,Pepino 1,0.999968886,,
+1002,fruits-360/Test/Pepino 1/r_256_100.jpg,Pepino 1,Pear Williams 1,0.642476261,,
+1003,fruits-360/Test/Pepino 1/r_270_100.jpg,Pepino 1,Pepino 1,1,,
+1004,fruits-360/Test/Pepino 1/64_100.jpg,Pepino 1,Pepino 1,1,,
+1005,fruits-360/Test/Pepino 1/93_100.jpg,Pepino 1,Pepino 1,1,,
+1006,fruits-360/Test/Pepino 1/208_100.jpg,Pepino 1,Pepino 1,1,,
+1007,fruits-360/Test/Pepino 1/65_100.jpg,Pepino 1,Pepino 1,1,,
+1008,fruits-360/Test/Pepino 1/41_100.jpg,Pepino 1,Pepino 1,1,,
+1009,fruits-360/Test/Pepino 1/49_100.jpg,Pepino 1,Pepino 1,1,,
+1010,fruits-360/Test/Pepino 1/r_219_100.jpg,Pepino 1,Pear Williams 1,0.996842027,,
+1011,fruits-360/Test/Pepper Green 1/r_16_100.jpg,Pepper Green 1,Pepper Green 1,1,,
+1012,fruits-360/Test/Pepper Green 1/232_100.jpg,Pepper Green 1,Pepper Green 1,1,,
+1013,fruits-360/Test/Pepper Green 1/110_100.jpg,Pepper Green 1,Pepper Green 1,1,,
+1014,fruits-360/Test/Pepper Green 1/r_227_100.jpg,Pepper Green 1,Pepper Green 1,0.979067683,,
+1015,fruits-360/Test/Pepper Green 1/119_100.jpg,Pepper Green 1,Pepper Green 1,1,,
+1016,fruits-360/Test/Pepper Green 1/233_100.jpg,Pepper Green 1,Pepper Green 1,1,,
+1017,fruits-360/Test/Pepper Green 1/r_54_100.jpg,Pepper Green 1,Pepper Green 1,1,,
+1018,fruits-360/Test/Pepper Green 1/r_164_100.jpg,Pepper Green 1,Pepper Green 1,1,,
+1019,fruits-360/Test/Pepper Green 1/225_100.jpg,Pepper Green 1,Pepper Green 1,1,,
+1020,fruits-360/Test/Pepper Green 1/r_195_100.jpg,Pepper Green 1,Pepper Green 1,1,,
+1021,fruits-360/Test/Pepper Orange 1/r_69_100.jpg,Pepper Orange 1,Pepper Orange 1,1,1.26,Lb
+1022,fruits-360/Test/Pepper Orange 1/r_91_100.jpg,Pepper Orange 1,Pepper Orange 1,1,1.26,Lb
+1023,fruits-360/Test/Pepper Orange 1/r_61_100.jpg,Pepper Orange 1,Pepper Orange 1,1,1.26,Lb
+1024,fruits-360/Test/Pepper Orange 1/r2_261_100.jpg,Pepper Orange 1,Pepper Orange 1,0.999999881,1.26,Lb
+1025,fruits-360/Test/Pepper Orange 1/140_100.jpg,Pepper Orange 1,Pepper Orange 1,1,1.26,Lb
+1026,fruits-360/Test/Pepper Orange 1/r2_271_100.jpg,Pepper Orange 1,Pepper Orange 1,0.99963069,1.26,Lb
+1027,fruits-360/Test/Pepper Orange 1/127_100.jpg,Pepper Orange 1,Pepper Orange 1,1,1.26,Lb
+1028,fruits-360/Test/Pepper Orange 1/r2_232_100.jpg,Pepper Orange 1,Pepper Orange 1,0.999999881,1.26,Lb
+1029,fruits-360/Test/Pepper Orange 1/r2_243_100.jpg,Pepper Orange 1,Pepper Orange 1,1,1.26,Lb
+1030,fruits-360/Test/Pepper Orange 1/138_100.jpg,Pepper Orange 1,Pepper Orange 1,1,1.26,Lb
+1031,fruits-360/Test/Pepper Red 1/r_193_100.jpg,Pepper Red 1,Pepper Red 1,1,,
+1032,fruits-360/Test/Pepper Red 1/r2_211_100.jpg,Pepper Red 1,Pepper Red 1,1,,
+1033,fruits-360/Test/Pepper Red 1/r2_202_100.jpg,Pepper Red 1,Pepper Red 1,1,,
+1034,fruits-360/Test/Pepper Red 1/153_100.jpg,Pepper Red 1,Pepper Red 1,1,,
+1035,fruits-360/Test/Pepper Red 1/r2_182_100.jpg,Pepper Red 1,Pepper Red 1,1,,
+1036,fruits-360/Test/Pepper Red 1/r2_225_100.jpg,Pepper Red 1,Pepper Red 1,1,,
+1037,fruits-360/Test/Pepper Red 1/r2_159_100.jpg,Pepper Red 1,Pepper Red 1,1,,
+1038,fruits-360/Test/Pepper Red 1/6_100.jpg,Pepper Red 1,Pepper Red 1,1,,
+1039,fruits-360/Test/Pepper Red 1/r_25_100.jpg,Pepper Red 1,Pepper Red 1,1,,
+1040,fruits-360/Test/Pepper Red 1/r2_174_100.jpg,Pepper Red 1,Pepper Red 1,1,,
+1041,fruits-360/Test/Pepper Yellow 1/181_100.jpg,Pepper Yellow 1,Pepper Yellow 1,1,,
+1042,fruits-360/Test/Pepper Yellow 1/r_223_100.jpg,Pepper Yellow 1,Pepper Yellow 1,1,,
+1043,fruits-360/Test/Pepper Yellow 1/r_228_100.jpg,Pepper Yellow 1,Pepper Yellow 1,1,,
+1044,fruits-360/Test/Pepper Yellow 1/r2_174_100.jpg,Pepper Yellow 1,Pepper Yellow 1,1,,
+1045,fruits-360/Test/Pepper Yellow 1/r2_152_100.jpg,Pepper Yellow 1,Pepper Yellow 1,1,,
+1046,fruits-360/Test/Pepper Yellow 1/r2_173_100.jpg,Pepper Yellow 1,Pepper Yellow 1,1,,
+1047,fruits-360/Test/Pepper Yellow 1/r_205_100.jpg,Pepper Yellow 1,Pepper Yellow 1,1,,
+1048,fruits-360/Test/Pepper Yellow 1/282_100.jpg,Pepper Yellow 1,Pepper Yellow 1,1,,
+1049,fruits-360/Test/Pepper Yellow 1/164_100.jpg,Pepper Yellow 1,Pepper Yellow 1,1,,
+1050,fruits-360/Test/Pepper Yellow 1/r2_164_100.jpg,Pepper Yellow 1,Pepper Yellow 1,1,,
+1051,fruits-360/Test/Physalis 1/r_186_100.jpg,Physalis 1,Physalis 1,1,,
+1052,fruits-360/Test/Physalis 1/r_325_100.jpg,Physalis 1,Physalis 1,1,,
+1053,fruits-360/Test/Physalis 1/r_28_100.jpg,Physalis 1,Physalis 1,1,,
+1054,fruits-360/Test/Physalis 1/29_100.jpg,Physalis 1,Physalis 1,1,,
+1055,fruits-360/Test/Physalis 1/r_9_100.jpg,Physalis 1,Physalis 1,1,,
+1056,fruits-360/Test/Physalis 1/127_100.jpg,Physalis 1,Physalis 1,1,,
+1057,fruits-360/Test/Physalis 1/r_317_100.jpg,Physalis 1,Physalis 1,1,,
+1058,fruits-360/Test/Physalis 1/r_184_100.jpg,Physalis 1,Physalis 1,1,,
+1059,fruits-360/Test/Physalis 1/69_100.jpg,Physalis 1,Physalis 1,1,,
+1060,fruits-360/Test/Physalis 1/66_100.jpg,Physalis 1,Physalis 1,1,,
+1061,fruits-360/Test/Physalis with Husk 1/24_100.jpg,Physalis with Husk 1,Physalis with Husk 1,0.947344959,,
+1062,fruits-360/Test/Physalis with Husk 1/r_127_100.jpg,Physalis with Husk 1,Physalis with Husk 1,1,,
+1063,fruits-360/Test/Physalis with Husk 1/r_65_100.jpg,Physalis with Husk 1,Physalis with Husk 1,1,,
+1064,fruits-360/Test/Physalis with Husk 1/184_100.jpg,Physalis with Husk 1,Physalis with Husk 1,1,,
+1065,fruits-360/Test/Physalis with Husk 1/r_49_100.jpg,Physalis with Husk 1,Physalis with Husk 1,1,,
+1066,fruits-360/Test/Physalis with Husk 1/29_100.jpg,Physalis with Husk 1,Physalis with Husk 1,0.735158443,,
+1067,fruits-360/Test/Physalis with Husk 1/r_64_100.jpg,Physalis with Husk 1,Physalis with Husk 1,1,,
+1068,fruits-360/Test/Physalis with Husk 1/199_100.jpg,Physalis with Husk 1,Physalis with Husk 1,1,,
+1069,fruits-360/Test/Physalis with Husk 1/312_100.jpg,Physalis with Husk 1,Physalis with Husk 1,1,,
+1070,fruits-360/Test/Physalis with Husk 1/320_100.jpg,Physalis with Husk 1,Physalis with Husk 1,0.998283148,,
+1071,fruits-360/Test/Pineapple 1/196_100.jpg,Pineapple 1,Pineapple 1,0.999999285,0.78,Lb
+1072,fruits-360/Test/Pineapple 1/r_130_100.jpg,Pineapple 1,Pineapple 1,1,0.78,Lb
+1073,fruits-360/Test/Pineapple 1/289_100.jpg,Pineapple 1,Pineapple 1,0.999876618,0.78,Lb
+1074,fruits-360/Test/Pineapple 1/266_100.jpg,Pineapple 1,Pineapple 1,0.99966383,0.78,Lb
+1075,fruits-360/Test/Pineapple 1/r_117_100.jpg,Pineapple 1,Pineapple 1,0.998274446,0.78,Lb
+1076,fruits-360/Test/Pineapple 1/r_106_100.jpg,Pineapple 1,Pineapple 1,1,0.78,Lb
+1077,fruits-360/Test/Pineapple 1/r_147_100.jpg,Pineapple 1,Pineapple 1,1,0.78,Lb
+1078,fruits-360/Test/Pineapple 1/276_100.jpg,Pineapple 1,Pineapple 1,1,0.78,Lb
+1079,fruits-360/Test/Pineapple 1/r_204_100.jpg,Pineapple 1,Pineapple 1,0.982040405,0.78,Lb
+1080,fruits-360/Test/Pineapple 1/8_100.jpg,Pineapple 1,Pineapple 1,0.994926929,0.78,Lb
+1081,fruits-360/Test/Pineapple Mini 1/299_100.jpg,Pineapple Mini 1,Pineapple Mini 1,1,0.78,Lb
+1082,fruits-360/Test/Pineapple Mini 1/132_100.jpg,Pineapple Mini 1,Pineapple Mini 1,1,0.78,Lb
+1083,fruits-360/Test/Pineapple Mini 1/2_100.jpg,Pineapple Mini 1,Pineapple Mini 1,1,0.78,Lb
+1084,fruits-360/Test/Pineapple Mini 1/258_100.jpg,Pineapple Mini 1,Pineapple Mini 1,1,0.78,Lb
+1085,fruits-360/Test/Pineapple Mini 1/53_100.jpg,Pineapple Mini 1,Pineapple Mini 1,1,0.78,Lb
+1086,fruits-360/Test/Pineapple Mini 1/r_223_100.jpg,Pineapple Mini 1,Pineapple Mini 1,1,0.78,Lb
+1087,fruits-360/Test/Pineapple Mini 1/308_100.jpg,Pineapple Mini 1,Pineapple Mini 1,1,0.78,Lb
+1088,fruits-360/Test/Pineapple Mini 1/r_305_100.jpg,Pineapple Mini 1,Pineapple Mini 1,1,0.78,Lb
+1089,fruits-360/Test/Pineapple Mini 1/r_52_100.jpg,Pineapple Mini 1,Pineapple Mini 1,1,0.78,Lb
+1090,fruits-360/Test/Pineapple Mini 1/r_17_100.jpg,Pineapple Mini 1,Pineapple Mini 1,1,0.78,Lb
+1091,fruits-360/Test/Pitahaya Red 1/r_138_100.jpg,Pitahaya Red 1,Pitahaya Red 1,0.999999881,,
+1092,fruits-360/Test/Pitahaya Red 1/r_200_100.jpg,Pitahaya Red 1,Pitahaya Red 1,1,,
+1093,fruits-360/Test/Pitahaya Red 1/r_27_100.jpg,Pitahaya Red 1,Pitahaya Red 1,1,,
+1094,fruits-360/Test/Pitahaya Red 1/r_172_100.jpg,Pitahaya Red 1,Pitahaya Red 1,1,,
+1095,fruits-360/Test/Pitahaya Red 1/269_100.jpg,Pitahaya Red 1,Pitahaya Red 1,1,,
+1096,fruits-360/Test/Pitahaya Red 1/r_158_100.jpg,Pitahaya Red 1,Pitahaya Red 1,1,,
+1097,fruits-360/Test/Pitahaya Red 1/r_150_100.jpg,Pitahaya Red 1,Pitahaya Red 1,1,,
+1098,fruits-360/Test/Pitahaya Red 1/r_132_100.jpg,Pitahaya Red 1,Pitahaya Red 1,1,,
+1099,fruits-360/Test/Pitahaya Red 1/r_146_100.jpg,Pitahaya Red 1,Pitahaya Red 1,1,,
+1100,fruits-360/Test/Pitahaya Red 1/r_202_100.jpg,Pitahaya Red 1,Pitahaya Red 1,1,,
+1101,fruits-360/Test/Plum 1/r_55_100.jpg,Plum 1,Plum 1,0.999996543,,
+1102,fruits-360/Test/Plum 1/77_100.jpg,Plum 1,Plum 1,1,,
+1103,fruits-360/Test/Plum 1/86_100.jpg,Plum 1,Plum 1,1,,
+1104,fruits-360/Test/Plum 1/83_100.jpg,Plum 1,Plum 1,1,,
+1105,fruits-360/Test/Plum 1/r_35_100.jpg,Plum 1,Plum 1,1,,
+1106,fruits-360/Test/Plum 1/r_86_100.jpg,Plum 1,Cherry 1,0.935757756,,
+1107,fruits-360/Test/Plum 1/r_8_100.jpg,Plum 1,Plum 1,1,,
+1108,fruits-360/Test/Plum 1/r_91_100.jpg,Plum 1,Plum 1,0.999833465,,
+1109,fruits-360/Test/Plum 1/98_100.jpg,Plum 1,Plum 1,1,,
+1110,fruits-360/Test/Plum 1/40_100.jpg,Plum 1,Plum 1,1,,
+1111,fruits-360/Test/Plum 2/r_84_100.jpg,Plum 2,Plum 2,1,,
+1112,fruits-360/Test/Plum 2/r_77_100.jpg,Plum 2,Plum 2,1,,
+1113,fruits-360/Test/Plum 2/91_100.jpg,Plum 2,Plum 2,1,,
+1114,fruits-360/Test/Plum 2/103_100.jpg,Plum 2,Plum 2,1,,
+1115,fruits-360/Test/Plum 2/r_69_100.jpg,Plum 2,Plum 2,1,,
+1116,fruits-360/Test/Plum 2/170_100.jpg,Plum 2,Plum 2,1,,
+1117,fruits-360/Test/Plum 2/r_224_100.jpg,Plum 2,Plum 2,1,,
+1118,fruits-360/Test/Plum 2/85_100.jpg,Plum 2,Plum 2,1,,
+1119,fruits-360/Test/Plum 2/r_82_100.jpg,Plum 2,Plum 2,1,,
+1120,fruits-360/Test/Plum 2/r_209_100.jpg,Plum 2,Plum 2,1,,
+1121,fruits-360/Test/Plum 3/r_42_100.jpg,Plum 3,Plum 3,1,,
+1122,fruits-360/Test/Plum 3/154_100.jpg,Plum 3,Plum 3,1,,
+1123,fruits-360/Test/Plum 3/r2_5_100.jpg,Plum 3,Plum 3,0.999999046,,
+1124,fruits-360/Test/Plum 3/r_169_100.jpg,Plum 3,Plum 3,1,,
+1125,fruits-360/Test/Plum 3/r2_120_100.jpg,Plum 3,Plum 3,1,,
+1126,fruits-360/Test/Plum 3/r_35_100.jpg,Plum 3,Plum 3,1,,
+1127,fruits-360/Test/Plum 3/125_100.jpg,Plum 3,Plum 3,1,,
+1128,fruits-360/Test/Plum 3/r2_227_100.jpg,Plum 3,Plum 3,0.999998689,,
+1129,fruits-360/Test/Plum 3/140_100.jpg,Plum 3,Plum 3,1,,
+1130,fruits-360/Test/Plum 3/r2_2_100.jpg,Plum 3,Plum 3,0.999502659,,
+1131,fruits-360/Test/Pomegranate 1/r_311_100.jpg,Pomegranate 1,Pomegranate 1,1,,
+1132,fruits-360/Test/Pomegranate 1/r_14_100.jpg,Pomegranate 1,Pomegranate 1,1,,
+1133,fruits-360/Test/Pomegranate 1/73_100.jpg,Pomegranate 1,Pomegranate 1,1,,
+1134,fruits-360/Test/Pomegranate 1/69_100.jpg,Pomegranate 1,Pomegranate 1,1,,
+1135,fruits-360/Test/Pomegranate 1/322_100.jpg,Pomegranate 1,Pomegranate 1,1,,
+1136,fruits-360/Test/Pomegranate 1/65_100.jpg,Pomegranate 1,Pomegranate 1,1,,
+1137,fruits-360/Test/Pomegranate 1/r_277_100.jpg,Pomegranate 1,Pomegranate 1,0.99999249,,
+1138,fruits-360/Test/Pomegranate 1/r_280_100.jpg,Pomegranate 1,Cherry 2,0.973933041,,
+1139,fruits-360/Test/Pomegranate 1/93_100.jpg,Pomegranate 1,Pomegranate 1,1,,
+1140,fruits-360/Test/Pomegranate 1/r_286_100.jpg,Pomegranate 1,Pomegranate 1,0.999993682,,
+1141,fruits-360/Test/Pomelo Sweetie 1/r_107_100.jpg,Pomelo Sweetie 1,Pomelo Sweetie 1,1,0.9,Lb
+1142,fruits-360/Test/Pomelo Sweetie 1/r_89_100.jpg,Pomelo Sweetie 1,Pomelo Sweetie 1,1,0.9,Lb
+1143,fruits-360/Test/Pomelo Sweetie 1/37_100.jpg,Pomelo Sweetie 1,Pomelo Sweetie 1,1,0.9,Lb
+1144,fruits-360/Test/Pomelo Sweetie 1/r2_73_100.jpg,Pomelo Sweetie 1,Pomelo Sweetie 1,1,0.9,Lb
+1145,fruits-360/Test/Pomelo Sweetie 1/r2_55_100.jpg,Pomelo Sweetie 1,Pomelo Sweetie 1,1,0.9,Lb
+1146,fruits-360/Test/Pomelo Sweetie 1/r2_143_100.jpg,Pomelo Sweetie 1,Pomelo Sweetie 1,0.999997973,0.9,Lb
+1147,fruits-360/Test/Pomelo Sweetie 1/r2_142_100.jpg,Pomelo Sweetie 1,Pomelo Sweetie 1,1,0.9,Lb
+1148,fruits-360/Test/Pomelo Sweetie 1/r_189_100.jpg,Pomelo Sweetie 1,Pomelo Sweetie 1,1,0.9,Lb
+1149,fruits-360/Test/Pomelo Sweetie 1/36_100.jpg,Pomelo Sweetie 1,Pomelo Sweetie 1,1,0.9,Lb
+1150,fruits-360/Test/Pomelo Sweetie 1/r_84_100.jpg,Pomelo Sweetie 1,Pomelo Sweetie 1,1,0.9,Lb
+1151,fruits-360/Test/Potato Red 1/r2_12_100.jpg,Potato Red 1,Potato Red 1,1,,
+1152,fruits-360/Test/Potato Red 1/r_181_100.jpg,Potato Red 1,Potato Red 1,1,,
+1153,fruits-360/Test/Potato Red 1/50_100.jpg,Potato Red 1,Potato Red 1,0.999894142,,
+1154,fruits-360/Test/Potato Red 1/23_100.jpg,Potato Red 1,Potato Red 1,1,,
+1155,fruits-360/Test/Potato Red 1/21_100.jpg,Potato Red 1,Potato Red 1,1,,
+1156,fruits-360/Test/Potato Red 1/r2_7_100.jpg,Potato Red 1,Potato Red 1,0.544514775,,
+1157,fruits-360/Test/Potato Red 1/r_190_100.jpg,Potato Red 1,Onion White 1,0.708519816,,
+1158,fruits-360/Test/Potato Red 1/r2_115_100.jpg,Potato Red 1,Onion Red 1,0.570653737,,
+1159,fruits-360/Test/Potato Red 1/r_82_100.jpg,Potato Red 1,Potato Red 1,0.696440578,,
+1160,fruits-360/Test/Potato Red 1/r2_195_100.jpg,Potato Red 1,Potato Red 1,1,,
+1161,fruits-360/Test/Potato Red Washed 1/r2_75_100.jpg,Potato Red Washed 1,Potato Red Washed 1,0.9272874,,
+1162,fruits-360/Test/Potato Red Washed 1/r2_148_100.jpg,Potato Red Washed 1,Potato Red Washed 1,0.675242007,,
+1163,fruits-360/Test/Potato Red Washed 1/66_100.jpg,Potato Red Washed 1,Potato Red Washed 1,1,,
+1164,fruits-360/Test/Potato Red Washed 1/r2_171_100.jpg,Potato Red Washed 1,Potato Red Washed 1,0.999749482,,
+1165,fruits-360/Test/Potato Red Washed 1/45_100.jpg,Potato Red Washed 1,Potato Red Washed 1,1,,
+1166,fruits-360/Test/Potato Red Washed 1/42_100.jpg,Potato Red Washed 1,Potato Red Washed 1,1,,
+1167,fruits-360/Test/Potato Red Washed 1/r_62_100.jpg,Potato Red Washed 1,Potato Red Washed 1,1,,
+1168,fruits-360/Test/Potato Red Washed 1/r2_155_100.jpg,Potato Red Washed 1,Potato Red Washed 1,0.999983907,,
+1169,fruits-360/Test/Potato Red Washed 1/68_100.jpg,Potato Red Washed 1,Potato Red Washed 1,1,,
+1170,fruits-360/Test/Potato Red Washed 1/r2_74_100.jpg,Potato Red Washed 1,Potato Red Washed 1,0.965003908,,
+1171,fruits-360/Test/Potato Sweet 1/150_100.jpg,Potato Sweet 1,Potato Sweet 1,1,1.29,Lb
+1172,fruits-360/Test/Potato Sweet 1/r2_68_100.jpg,Potato Sweet 1,Potato Red 1,0.754056096,1.29,Lb
+1173,fruits-360/Test/Potato Sweet 1/105_100.jpg,Potato Sweet 1,Potato Sweet 1,1,1.29,Lb
+1174,fruits-360/Test/Potato Sweet 1/98_100.jpg,Potato Sweet 1,Potato Sweet 1,1,1.29,Lb
+1175,fruits-360/Test/Potato Sweet 1/r_63_100.jpg,Potato Sweet 1,Onion White 1,0.689588428,1.29,Lb
+1176,fruits-360/Test/Potato Sweet 1/r2_52_100.jpg,Potato Sweet 1,Potato Sweet 1,0.92498678,1.29,Lb
+1177,fruits-360/Test/Potato Sweet 1/157_100.jpg,Potato Sweet 1,Potato Sweet 1,1,1.29,Lb
+1178,fruits-360/Test/Potato Sweet 1/r2_80_100.jpg,Potato Sweet 1,Potato Red 1,0.979414165,1.29,Lb
+1179,fruits-360/Test/Potato Sweet 1/r2_180_100.jpg,Potato Sweet 1,Potato Sweet 1,0.992397845,1.29,Lb
+1180,fruits-360/Test/Potato Sweet 1/r2_75_100.jpg,Potato Sweet 1,Potato Red 1,0.709447622,1.29,Lb
+1181,fruits-360/Test/Potato White 1/r2_86_100.jpg,Potato White 1,Potato White 1,0.999999642,,
+1182,fruits-360/Test/Potato White 1/r2_74_100.jpg,Potato White 1,Potato White 1,0.999999762,,
+1183,fruits-360/Test/Potato White 1/r2_67_100.jpg,Potato White 1,Potato White 1,0.993157566,,
+1184,fruits-360/Test/Potato White 1/r_34_100.jpg,Potato White 1,Onion White 1,0.990923703,,
+1185,fruits-360/Test/Potato White 1/r2_47_100.jpg,Potato White 1,Potato White 1,0.511399388,,
+1186,fruits-360/Test/Potato White 1/r_64_100.jpg,Potato White 1,Potato White 1,0.99999702,,
+1187,fruits-360/Test/Potato White 1/r2_84_100.jpg,Potato White 1,Potato White 1,0.999999881,,
+1188,fruits-360/Test/Potato White 1/r2_44_100.jpg,Potato White 1,Potato White 1,0.873558164,,
+1189,fruits-360/Test/Potato White 1/r_48_100.jpg,Potato White 1,Potato White 1,1,,
+1190,fruits-360/Test/Potato White 1/r_30_100.jpg,Potato White 1,Potato White 1,0.999972701,,
+1191,fruits-360/Test/Quince 1/174_100.jpg,Quince 1,Quince 1,1,,
+1192,fruits-360/Test/Quince 1/10_100.jpg,Quince 1,Quince 1,1,,
+1193,fruits-360/Test/Quince 1/r_30_100.jpg,Quince 1,Quince 1,1,,
+1194,fruits-360/Test/Quince 1/r_32_100.jpg,Quince 1,Quince 1,1,,
+1195,fruits-360/Test/Quince 1/32_100.jpg,Quince 1,Quince 1,1,,
+1196,fruits-360/Test/Quince 1/r_61_100.jpg,Quince 1,Quince 1,1,,
+1197,fruits-360/Test/Quince 1/r_48_100.jpg,Quince 1,Quince 1,1,,
+1198,fruits-360/Test/Quince 1/301_100.jpg,Quince 1,Quince 1,1,,
+1199,fruits-360/Test/Quince 1/r_327_100.jpg,Quince 1,Quince 1,1,,
+1200,fruits-360/Test/Quince 1/r_326_100.jpg,Quince 1,Quince 1,1,,
+1201,fruits-360/Test/Rambutan 1/145_100.jpg,Rambutan 1,Rambutan 1,0.999999762,,
+1202,fruits-360/Test/Rambutan 1/r_202_100.jpg,Rambutan 1,Rambutan 1,1,,
+1203,fruits-360/Test/Rambutan 1/r_161_100.jpg,Rambutan 1,Rambutan 1,1,,
+1204,fruits-360/Test/Rambutan 1/r_188_100.jpg,Rambutan 1,Rambutan 1,1,,
+1205,fruits-360/Test/Rambutan 1/186_100.jpg,Rambutan 1,Rambutan 1,1,,
+1206,fruits-360/Test/Rambutan 1/143_100.jpg,Rambutan 1,Rambutan 1,0.999999881,,
+1207,fruits-360/Test/Rambutan 1/138_100.jpg,Rambutan 1,Rambutan 1,1,,
+1208,fruits-360/Test/Rambutan 1/r_121_100.jpg,Rambutan 1,Rambutan 1,1,,
+1209,fruits-360/Test/Rambutan 1/r_245_100.jpg,Rambutan 1,Rambutan 1,1,,
+1210,fruits-360/Test/Rambutan 1/r_153_100.jpg,Rambutan 1,Rambutan 1,1,,
+1211,fruits-360/Test/Raspberry 1/86_100.jpg,Raspberry 1,Raspberry 1,1,3.02,Lb
+1212,fruits-360/Test/Raspberry 1/r_220_100.jpg,Raspberry 1,Raspberry 1,1,3.02,Lb
+1213,fruits-360/Test/Raspberry 1/106_100.jpg,Raspberry 1,Raspberry 1,1,3.02,Lb
+1214,fruits-360/Test/Raspberry 1/101_100.jpg,Raspberry 1,Raspberry 1,1,3.02,Lb
+1215,fruits-360/Test/Raspberry 1/223_100.jpg,Raspberry 1,Raspberry 1,1,3.02,Lb
+1216,fruits-360/Test/Raspberry 1/r_118_100.jpg,Raspberry 1,Raspberry 1,1,3.02,Lb
+1217,fruits-360/Test/Raspberry 1/r_89_100.jpg,Raspberry 1,Raspberry 1,1,3.02,Lb
+1218,fruits-360/Test/Raspberry 1/r_32_100.jpg,Raspberry 1,Raspberry 1,1,3.02,Lb
+1219,fruits-360/Test/Raspberry 1/r_26_100.jpg,Raspberry 1,Raspberry 1,1,3.02,Lb
+1220,fruits-360/Test/Raspberry 1/r_25_100.jpg,Raspberry 1,Raspberry 1,1,3.02,Lb
+1221,fruits-360/Test/Redcurrant 1/46_100.jpg,Redcurrant 1,Redcurrant 1,1,,
+1222,fruits-360/Test/Redcurrant 1/235_100.jpg,Redcurrant 1,Redcurrant 1,1,,
+1223,fruits-360/Test/Redcurrant 1/r_99_100.jpg,Redcurrant 1,Redcurrant 1,1,,
+1224,fruits-360/Test/Redcurrant 1/r_245_100.jpg,Redcurrant 1,Redcurrant 1,1,,
+1225,fruits-360/Test/Redcurrant 1/r_177_100.jpg,Redcurrant 1,Redcurrant 1,1,,
+1226,fruits-360/Test/Redcurrant 1/r_269_100.jpg,Redcurrant 1,Redcurrant 1,1,,
+1227,fruits-360/Test/Redcurrant 1/70_100.jpg,Redcurrant 1,Redcurrant 1,1,,
+1228,fruits-360/Test/Redcurrant 1/72_100.jpg,Redcurrant 1,Redcurrant 1,1,,
+1229,fruits-360/Test/Redcurrant 1/54_100.jpg,Redcurrant 1,Redcurrant 1,1,,
+1230,fruits-360/Test/Redcurrant 1/58_100.jpg,Redcurrant 1,Redcurrant 1,1,,
+1231,fruits-360/Test/Salak 1/149_100.jpg,Salak 1,Salak 1,1,,
+1232,fruits-360/Test/Salak 1/r_290_100.jpg,Salak 1,Salak 1,1,,
+1233,fruits-360/Test/Salak 1/27_100.jpg,Salak 1,Salak 1,1,,
+1234,fruits-360/Test/Salak 1/24_100.jpg,Salak 1,Salak 1,1,,
+1235,fruits-360/Test/Salak 1/r_19_100.jpg,Salak 1,Salak 1,1,,
+1236,fruits-360/Test/Salak 1/r_150_100.jpg,Salak 1,Salak 1,1,,
+1237,fruits-360/Test/Salak 1/r_158_100.jpg,Salak 1,Salak 1,1,,
+1238,fruits-360/Test/Salak 1/r_173_100.jpg,Salak 1,Salak 1,1,,
+1239,fruits-360/Test/Salak 1/272_100.jpg,Salak 1,Salak 1,1,,
+1240,fruits-360/Test/Salak 1/144_100.jpg,Salak 1,Salak 1,1,,
+1241,fruits-360/Test/Strawberry 1/r_33_100.jpg,Strawberry 1,Strawberry 1,1,,
+1242,fruits-360/Test/Strawberry 1/r_68_100.jpg,Strawberry 1,Pepino 1,0.790297568,,
+1243,fruits-360/Test/Strawberry 1/r_93_100.jpg,Strawberry 1,Onion Red Peeled 1,0.525144875,,
+1244,fruits-360/Test/Strawberry 1/7_100.jpg,Strawberry 1,Strawberry 1,1,,
+1245,fruits-360/Test/Strawberry 1/r_34_100.jpg,Strawberry 1,Strawberry 1,0.999992132,,
+1246,fruits-360/Test/Strawberry 1/r_95_100.jpg,Strawberry 1,Pitahaya Red 1,0.798762918,,
+1247,fruits-360/Test/Strawberry 1/r_46_100.jpg,Strawberry 1,Strawberry 1,0.977618515,,
+1248,fruits-360/Test/Strawberry 1/r_71_100.jpg,Strawberry 1,Strawberry 1,0.543885708,,
+1249,fruits-360/Test/Strawberry 1/95_100.jpg,Strawberry 1,Strawberry 1,1,,
+1250,fruits-360/Test/Strawberry 1/40_100.jpg,Strawberry 1,Strawberry 1,1,,
+1251,fruits-360/Test/Strawberry Wedge 1/r2_171_100.jpg,Strawberry Wedge 1,Strawberry Wedge 1,1,,
+1252,fruits-360/Test/Strawberry Wedge 1/r_126_100.jpg,Strawberry Wedge 1,Strawberry Wedge 1,1,,
+1253,fruits-360/Test/Strawberry Wedge 1/r2_44_100.jpg,Strawberry Wedge 1,Strawberry Wedge 1,1,,
+1254,fruits-360/Test/Strawberry Wedge 1/106_100.jpg,Strawberry Wedge 1,Strawberry Wedge 1,1,,
+1255,fruits-360/Test/Strawberry Wedge 1/r_119_100.jpg,Strawberry Wedge 1,Strawberry Wedge 1,1,,
+1256,fruits-360/Test/Strawberry Wedge 1/277_100.jpg,Strawberry Wedge 1,Strawberry Wedge 1,0.999928594,,
+1257,fruits-360/Test/Strawberry Wedge 1/r2_195_100.jpg,Strawberry Wedge 1,Pepino 1,0.983779132,,
+1258,fruits-360/Test/Strawberry Wedge 1/276_100.jpg,Strawberry Wedge 1,Strawberry Wedge 1,1,,
+1259,fruits-360/Test/Strawberry Wedge 1/r2_218_100.jpg,Strawberry Wedge 1,Strawberry Wedge 1,1,,
+1260,fruits-360/Test/Strawberry Wedge 1/111_100.jpg,Strawberry Wedge 1,Banana Red 1,0.71425283,,
+1261,fruits-360/Test/Tamarillo 1/321_100.jpg,Tamarillo 1,Tamarillo 1,1,,
+1262,fruits-360/Test/Tamarillo 1/60_100.jpg,Tamarillo 1,Tamarillo 1,1,,
+1263,fruits-360/Test/Tamarillo 1/r_324_100.jpg,Tamarillo 1,Tamarillo 1,1,,
+1264,fruits-360/Test/Tamarillo 1/r_109_100.jpg,Tamarillo 1,Tamarillo 1,1,,
+1265,fruits-360/Test/Tamarillo 1/63_100.jpg,Tamarillo 1,Tamarillo 1,1,,
+1266,fruits-360/Test/Tamarillo 1/307_100.jpg,Tamarillo 1,Tamarillo 1,1,,
+1267,fruits-360/Test/Tamarillo 1/r_93_100.jpg,Tamarillo 1,Tamarillo 1,1,,
+1268,fruits-360/Test/Tamarillo 1/316_100.jpg,Tamarillo 1,Tamarillo 1,1,,
+1269,fruits-360/Test/Tamarillo 1/r_108_100.jpg,Tamarillo 1,Tamarillo 1,1,,
+1270,fruits-360/Test/Tamarillo 1/r_117_100.jpg,Tamarillo 1,Tamarillo 1,1,,
+1271,fruits-360/Test/Tangelo 1/r_136_100.jpg,Tangelo 1,Tangelo 1,1,,
+1272,fruits-360/Test/Tangelo 1/86_100.jpg,Tangelo 1,Tangelo 1,1,,
+1273,fruits-360/Test/Tangelo 1/r_158_100.jpg,Tangelo 1,Tangelo 1,1,,
+1274,fruits-360/Test/Tangelo 1/r_153_100.jpg,Tangelo 1,Tangelo 1,1,,
+1275,fruits-360/Test/Tangelo 1/r_287_100.jpg,Tangelo 1,Tangelo 1,1,,
+1276,fruits-360/Test/Tangelo 1/247_100.jpg,Tangelo 1,Tangelo 1,1,,
+1277,fruits-360/Test/Tangelo 1/r_152_100.jpg,Tangelo 1,Tangelo 1,1,,
+1278,fruits-360/Test/Tangelo 1/r_176_100.jpg,Tangelo 1,Tangelo 1,1,,
+1279,fruits-360/Test/Tangelo 1/r_160_100.jpg,Tangelo 1,Tangelo 1,1,,
+1280,fruits-360/Test/Tangelo 1/r_133_100.jpg,Tangelo 1,Tangelo 1,1,,
+1281,fruits-360/Test/Tomato 1/r2_284_100.jpg,Tomato 1,Tomato 1,1,,
+1282,fruits-360/Test/Tomato 1/r2_257_100.jpg,Tomato 1,Tomato 1,1,,
+1283,fruits-360/Test/Tomato 1/r_280_100.jpg,Tomato 1,Tomato 4,0.85815686,,
+1284,fruits-360/Test/Tomato 1/217_100.jpg,Tomato 1,Tomato 1,1,,
+1285,fruits-360/Test/Tomato 1/r2_161_100.jpg,Tomato 1,Tomato 1,1,,
+1286,fruits-360/Test/Tomato 1/r_220_100.jpg,Tomato 1,Tomato 1,1,,
+1287,fruits-360/Test/Tomato 1/r2_225_100.jpg,Tomato 1,Tomato 1,1,,
+1288,fruits-360/Test/Tomato 1/54_100.jpg,Tomato 1,Tomato 1,1,,
+1289,fruits-360/Test/Tomato 1/r_247_100.jpg,Tomato 1,Tomato 1,1,,
+1290,fruits-360/Test/Tomato 1/r_260_100.jpg,Tomato 1,Tomato 1,0.999518275,,
+1291,fruits-360/Test/Tomato 2/r_168_100.jpg,Tomato 2,Tomato 2,1,,
+1292,fruits-360/Test/Tomato 2/188_100.jpg,Tomato 2,Tomato 2,1,,
+1293,fruits-360/Test/Tomato 2/r2_320_100.jpg,Tomato 2,Tomato 2,1,,
+1294,fruits-360/Test/Tomato 2/r2_2_100.jpg,Tomato 2,Tomato 2,1,,
+1295,fruits-360/Test/Tomato 2/171_100.jpg,Tomato 2,Tomato 2,1,,
+1296,fruits-360/Test/Tomato 2/109_100.jpg,Tomato 2,Tomato 2,1,,
+1297,fruits-360/Test/Tomato 2/r2_326_100.jpg,Tomato 2,Tomato 2,1,,
+1298,fruits-360/Test/Tomato 2/r2_153_100.jpg,Tomato 2,Tomato 2,1,,
+1299,fruits-360/Test/Tomato 2/r_321_100.jpg,Tomato 2,Tomato 2,1,,
+1300,fruits-360/Test/Tomato 2/r_22_100.jpg,Tomato 2,Tomato 2,1,,
+1301,fruits-360/Test/Tomato 3/29_100.jpg,Tomato 3,Tomato 3,1,,
+1302,fruits-360/Test/Tomato 3/r_209_100.jpg,Tomato 3,Tomato 3,1,,
+1303,fruits-360/Test/Tomato 3/307_100.jpg,Tomato 3,Tomato 3,1,,
+1304,fruits-360/Test/Tomato 3/r2_318_100.jpg,Tomato 3,Tomato 3,1,,
+1305,fruits-360/Test/Tomato 3/r2_316_100.jpg,Tomato 3,Tomato 3,1,,
+1306,fruits-360/Test/Tomato 3/r2_10_100.jpg,Tomato 3,Tomato 3,1,,
+1307,fruits-360/Test/Tomato 3/r_217_100.jpg,Tomato 3,Tomato 3,1,,
+1308,fruits-360/Test/Tomato 3/r_62_100.jpg,Tomato 3,Tomato 3,1,,
+1309,fruits-360/Test/Tomato 3/r2_307_100.jpg,Tomato 3,Tomato 3,1,,
+1310,fruits-360/Test/Tomato 3/r2_319_100.jpg,Tomato 3,Tomato 3,1,,
+1311,fruits-360/Test/Tomato 4/10_100.jpg,Tomato 4,Tomato 4,1,,
+1312,fruits-360/Test/Tomato 4/92_100.jpg,Tomato 4,Tomato 4,1,,
+1313,fruits-360/Test/Tomato 4/133_100.jpg,Tomato 4,Tomato 4,1,,
+1314,fruits-360/Test/Tomato 4/r_270_100.jpg,Tomato 4,Tomato 4,1,,
+1315,fruits-360/Test/Tomato 4/160_100.jpg,Tomato 4,Tomato 4,1,,
+1316,fruits-360/Test/Tomato 4/r_289_100.jpg,Tomato 4,Tomato 4,1,,
+1317,fruits-360/Test/Tomato 4/197_100.jpg,Tomato 4,Tomato 4,1,,
+1318,fruits-360/Test/Tomato 4/r_16_100.jpg,Tomato 4,Tomato 4,1,,
+1319,fruits-360/Test/Tomato 4/152_100.jpg,Tomato 4,Tomato 4,1,,
+1320,fruits-360/Test/Tomato 4/316_100.jpg,Tomato 4,Tomato 4,1,,
+1321,fruits-360/Test/Tomato Cherry Red 1/r_185_100.jpg,Tomato Cherry Red 1,Tomato Cherry Red 1,1,,
+1322,fruits-360/Test/Tomato Cherry Red 1/317_100.jpg,Tomato Cherry Red 1,Tomato Cherry Red 1,0.999997139,,
+1323,fruits-360/Test/Tomato Cherry Red 1/r_48_100.jpg,Tomato Cherry Red 1,Tomato Cherry Red 1,0.9998492,,
+1324,fruits-360/Test/Tomato Cherry Red 1/207_100.jpg,Tomato Cherry Red 1,Tomato Cherry Red 1,1,,
+1325,fruits-360/Test/Tomato Cherry Red 1/r_228_100.jpg,Tomato Cherry Red 1,Tomato Cherry Red 1,1,,
+1326,fruits-360/Test/Tomato Cherry Red 1/41_100.jpg,Tomato Cherry Red 1,Tomato Cherry Red 1,0.715877414,,
+1327,fruits-360/Test/Tomato Cherry Red 1/r_19_100.jpg,Tomato Cherry Red 1,Tomato Cherry Red 1,1,,
+1328,fruits-360/Test/Tomato Cherry Red 1/r_294_100.jpg,Tomato Cherry Red 1,Tomato Cherry Red 1,1,,
+1329,fruits-360/Test/Tomato Cherry Red 1/r_277_100.jpg,Tomato Cherry Red 1,Tomato Cherry Red 1,1,,
+1330,fruits-360/Test/Tomato Cherry Red 1/r_267_100.jpg,Tomato Cherry Red 1,Tomato Cherry Red 1,1,,
+1331,fruits-360/Test/Tomato Heart 1/r_146_100.jpg,Tomato Heart 1,Tomato Heart 1,1,,
+1332,fruits-360/Test/Tomato Heart 1/r2_262_100.jpg,Tomato Heart 1,Tomato Heart 1,1,,
+1333,fruits-360/Test/Tomato Heart 1/r_42_100.jpg,Tomato Heart 1,Tomato Heart 1,0.999999404,,
+1334,fruits-360/Test/Tomato Heart 1/r_108_100.jpg,Tomato Heart 1,Pepper Red 1,1,,
+1335,fruits-360/Test/Tomato Heart 1/r2_2_100.jpg,Tomato Heart 1,Pepper Red 1,0.999326944,,
+1336,fruits-360/Test/Tomato Heart 1/r_142_100.jpg,Tomato Heart 1,Tomato Heart 1,1,,
+1337,fruits-360/Test/Tomato Heart 1/195_100.jpg,Tomato Heart 1,Tomato Heart 1,1,,
+1338,fruits-360/Test/Tomato Heart 1/r_131_100.jpg,Tomato Heart 1,Tomato Heart 1,0.999985099,,
+1339,fruits-360/Test/Tomato Heart 1/r_143_100.jpg,Tomato Heart 1,Tomato Heart 1,1,,
+1340,fruits-360/Test/Tomato Heart 1/r_139_100.jpg,Tomato Heart 1,Tomato Heart 1,1,,
+1341,fruits-360/Test/Tomato Maroon 1/267_100.jpg,Tomato Maroon 1,Tomato Maroon 1,1,,
+1342,fruits-360/Test/Tomato Maroon 1/r_16_100.jpg,Tomato Maroon 1,Tomato Maroon 1,1,,
+1343,fruits-360/Test/Tomato Maroon 1/87_100.jpg,Tomato Maroon 1,Tomato Maroon 1,1,,
+1344,fruits-360/Test/Tomato Maroon 1/r_33_100.jpg,Tomato Maroon 1,Tomato Maroon 1,1,,
+1345,fruits-360/Test/Tomato Maroon 1/r_35_100.jpg,Tomato Maroon 1,Tomato Maroon 1,1,,
+1346,fruits-360/Test/Tomato Maroon 1/106_100.jpg,Tomato Maroon 1,Tomato Maroon 1,1,,
+1347,fruits-360/Test/Tomato Maroon 1/27_100.jpg,Tomato Maroon 1,Tomato Maroon 1,1,,
+1348,fruits-360/Test/Tomato Maroon 1/r_37_100.jpg,Tomato Maroon 1,Tomato Maroon 1,1,,
+1349,fruits-360/Test/Tomato Maroon 1/97_100.jpg,Tomato Maroon 1,Tomato Maroon 1,1,,
+1350,fruits-360/Test/Tomato Maroon 1/r_184_100.jpg,Tomato Maroon 1,Tomato Maroon 1,1,,
+1351,fruits-360/Test/Tomato Yellow 1/r2_15_100.jpg,Tomato Yellow 1,Tomato Yellow 1,1,,
+1352,fruits-360/Test/Tomato Yellow 1/194_100.jpg,Tomato Yellow 1,Tomato Yellow 1,1,,
+1353,fruits-360/Test/Tomato Yellow 1/187_100.jpg,Tomato Yellow 1,Tomato Yellow 1,1,,
+1354,fruits-360/Test/Tomato Yellow 1/r2_11_100.jpg,Tomato Yellow 1,Tomato Yellow 1,1,,
+1355,fruits-360/Test/Tomato Yellow 1/r_179_100.jpg,Tomato Yellow 1,Tomato Yellow 1,1,,
+1356,fruits-360/Test/Tomato Yellow 1/95_100.jpg,Tomato Yellow 1,Tomato Yellow 1,1,,
+1357,fruits-360/Test/Tomato Yellow 1/r2_4_100.jpg,Tomato Yellow 1,Tomato Yellow 1,1,,
+1358,fruits-360/Test/Tomato Yellow 1/83_100.jpg,Tomato Yellow 1,Tomato Yellow 1,1,,
+1359,fruits-360/Test/Tomato Yellow 1/r_170_100.jpg,Tomato Yellow 1,Tomato Yellow 1,1,,
+1360,fruits-360/Test/Tomato Yellow 1/2_100.jpg,Tomato Yellow 1,Tomato Yellow 1,1,,
+1361,fruits-360/Test/Tomato not Ripened 1/r_6_100.jpg,Tomato not Ripened 1,Tomato not Ripened 1,1,,
+1362,fruits-360/Test/Tomato not Ripened 1/156_100.jpg,Tomato not Ripened 1,Tomato not Ripened 1,1,,
+1363,fruits-360/Test/Tomato not Ripened 1/169_100.jpg,Tomato not Ripened 1,Tomato not Ripened 1,1,,
+1364,fruits-360/Test/Tomato not Ripened 1/r_280_100.jpg,Tomato not Ripened 1,Tomato not Ripened 1,0.999519587,,
+1365,fruits-360/Test/Tomato not Ripened 1/150_100.jpg,Tomato not Ripened 1,Tomato not Ripened 1,1,,
+1366,fruits-360/Test/Tomato not Ripened 1/r_5_100.jpg,Tomato not Ripened 1,Tomato not Ripened 1,1,,
+1367,fruits-360/Test/Tomato not Ripened 1/r_294_100.jpg,Tomato not Ripened 1,Pear Stone 1,0.632517099,,
+1368,fruits-360/Test/Tomato not Ripened 1/r_307_100.jpg,Tomato not Ripened 1,Tomato not Ripened 1,0.748476923,,
+1369,fruits-360/Test/Tomato not Ripened 1/r_32_100.jpg,Tomato not Ripened 1,Tomato not Ripened 1,1,,
+1370,fruits-360/Test/Tomato not Ripened 1/190_100.jpg,Tomato not Ripened 1,Tomato not Ripened 1,1,,
+1371,fruits-360/Test/Walnut 1/75_100.jpg,Walnut 1,Walnut 1,1,,
+1372,fruits-360/Test/Walnut 1/78_100.jpg,Walnut 1,Walnut 1,1,,
+1373,fruits-360/Test/Walnut 1/r2_99_100.jpg,Walnut 1,Walnut 1,1,,
+1374,fruits-360/Test/Walnut 1/182_100.jpg,Walnut 1,Walnut 1,1,,
+1375,fruits-360/Test/Walnut 1/176_100.jpg,Walnut 1,Walnut 1,1,,
+1376,fruits-360/Test/Walnut 1/13_100.jpg,Walnut 1,Walnut 1,1,,
+1377,fruits-360/Test/Walnut 1/r_288_100.jpg,Walnut 1,Walnut 1,1,,
+1378,fruits-360/Test/Walnut 1/r2_114_100.jpg,Walnut 1,Walnut 1,1,,
+1379,fruits-360/Test/Walnut 1/r2_89_100.jpg,Walnut 1,Walnut 1,1,,
+1380,fruits-360/Test/Walnut 1/r2_113_100.jpg,Walnut 1,Walnut 1,1,,
+1381,fruits-360/Test/Watermelon 1/259_100.jpg,Watermelon 1,Watermelon 1,1,0.49,Lb
+1382,fruits-360/Test/Watermelon 1/280_100.jpg,Watermelon 1,Watermelon 1,1,0.49,Lb
+1383,fruits-360/Test/Watermelon 1/146_100.jpg,Watermelon 1,Watermelon 1,1,0.49,Lb
+1384,fruits-360/Test/Watermelon 1/265_100.jpg,Watermelon 1,Watermelon 1,1,0.49,Lb
+1385,fruits-360/Test/Watermelon 1/r_76_100.jpg,Watermelon 1,Watermelon 1,0.999998689,0.49,Lb
+1386,fruits-360/Test/Watermelon 1/r_52_100.jpg,Watermelon 1,Watermelon 1,1,0.49,Lb
+1387,fruits-360/Test/Watermelon 1/261_100.jpg,Watermelon 1,Watermelon 1,1,0.49,Lb
+1388,fruits-360/Test/Watermelon 1/133_100.jpg,Watermelon 1,Watermelon 1,1,0.49,Lb
+1389,fruits-360/Test/Watermelon 1/r_65_100.jpg,Watermelon 1,Watermelon 1,0.999841332,0.49,Lb
+1390,fruits-360/Test/Watermelon 1/257_100.jpg,Watermelon 1,Watermelon 1,1,0.49,Lb
+1391,fruits-360/Test/Zucchini 1/r0_319_100.jpg,Zucchini 1,Zucchini 1,1,,
+1392,fruits-360/Test/Zucchini 1/r0_31_100.jpg,Zucchini 1,Zucchini 1,1,,
+1393,fruits-360/Test/Zucchini 1/r0_127_100.jpg,Zucchini 1,Zucchini 1,1,,
+1394,fruits-360/Test/Zucchini 1/r0_87_100.jpg,Zucchini 1,Zucchini 1,1,,
+1395,fruits-360/Test/Zucchini 1/r0_75_100.jpg,Zucchini 1,Zucchini 1,1,,
+1396,fruits-360/Test/Zucchini 1/r0_11_100.jpg,Zucchini 1,Zucchini 1,1,,
+1397,fruits-360/Test/Zucchini 1/r0_119_100.jpg,Zucchini 1,Zucchini 1,1,,
+1398,fruits-360/Test/Zucchini 1/r0_219_100.jpg,Zucchini 1,Zucchini 1,1,,
+1399,fruits-360/Test/Zucchini 1/r0_199_100.jpg,Zucchini 1,Zucchini 1,1,,
+1400,fruits-360/Test/Zucchini 1/r0_103_100.jpg,Zucchini 1,Zucchini 1,1,,
+1401,fruits-360/Test/Zucchini dark 1/r0_287_100.jpg,Zucchini dark 1,Zucchini dark 1,1,,
+1402,fruits-360/Test/Zucchini dark 1/r0_79_100.jpg,Zucchini dark 1,Zucchini dark 1,1,,
+1403,fruits-360/Test/Zucchini dark 1/r0_219_100.jpg,Zucchini dark 1,Zucchini dark 1,1,,
+1404,fruits-360/Test/Zucchini dark 1/r0_91_100.jpg,Zucchini dark 1,Zucchini dark 1,1,,
+1405,fruits-360/Test/Zucchini dark 1/r0_159_100.jpg,Zucchini dark 1,Zucchini dark 1,1,,
+1406,fruits-360/Test/Zucchini dark 1/r0_75_100.jpg,Zucchini dark 1,Zucchini dark 1,1,,
+1407,fruits-360/Test/Zucchini dark 1/r0_235_100.jpg,Zucchini dark 1,Zucchini dark 1,1,,
+1408,fruits-360/Test/Zucchini dark 1/r0_23_100.jpg,Zucchini dark 1,Zucchini dark 1,1,,
+1409,fruits-360/Test/Zucchini dark 1/r0_107_100.jpg,Zucchini dark 1,Zucchini dark 1,1,,
+1410,fruits-360/Test/Zucchini dark 1/r0_263_100.jpg,Zucchini dark 1,Zucchini dark 1,1,,

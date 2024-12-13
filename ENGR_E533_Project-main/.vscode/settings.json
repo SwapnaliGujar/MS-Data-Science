@@ -1,0 +1,22 @@
+{
+    "python.linting.enabled": false,
+    "cSpell.enabled": true,
+    "editor.tabSize": 4,
+    "python.terminal.activateEnvironment": true,
+    "python.defaultInterpreterPath": "${env:VIRTUAL_ENV}/bin/python",  // For macOS/Linux
+    "python.pythonPath": "${env:VIRTUAL_ENV}/bin/python",  // For macOS/Linux
+    "python.defaultInterpreterPath": "${env:VIRTUAL_ENV}\\Scripts\\python.exe",  // For Windows
+    "python.pythonPath": "${env:VIRTUAL_ENV}\\Scripts\\python.exe",  // For Windows
+    "terminal.integrated.defaultProfile.windows": "Command Prompt",
+    "terminal.integrated.defaultProfile.osx": "zsh",
+    "cSpell.enabledLanguageIds": [
+        "git-commit",
+        "latex",
+        "markdown",
+        "plaintext",
+        "text",
+    ],
+    "cSpell.words": [],
+    "python.terminal.executeInFileDir": true,
+    "git.ignoreLimitWarning": true,
+}

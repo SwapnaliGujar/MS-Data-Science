@@ -1,0 +1,37 @@
+
+[project]
+name = "Project"
+version = "0.1.0"
+description = "TBD"
+readme = "README.md"
+# repository = "https://github.com/jmj52/ENGR_E533_Project"
+# documentation = "https://github.com/jmj52/ENGR_E533_Project"
+dependencies = [
+    "streamlit",              # Sharing visualization
+    "watchdog",               # 
+    "numpy",                  # Core numerical library
+    "pandas",                 # Data manipulation library
+    "matplotlib",             # Data visualization library
+    "torch",                  # Deep learning library
+    "torchvision",            # Vision utilities for PyTorch
+    "black",                  # Code formatting
+    "pylint",                 # Static analysis
+    "setuptools",             # Package management
+    "notebook",               # Jupyter Notebook
+    "tqdm",
+    "torchinfo",
+    "scikit-learn",
+]
+
+# Install torch with CUDA locally - need more testing to make this reliable
+# pip install torch==2.3.1+cu121 -f https://download.pytorch.org/whl/torch_stable.html 
+
+[project.optional-dependencies]
+# To install any of these optional dependencies, run these commands inside venv.
+# In this example, the `docs` optional dependencies will be installed.
+#     - `pip install -e .[docs]`
+#     - `cd docs`
+#     - `make.bat html`
+
+[tool.setuptools.packages.find]
+where = ["."]  # Without this won't be able to use `from tests import foo` in files, reference https://setuptools.pypa.io/en/latest/userguide/package_discovery.html#finding-simple-packages

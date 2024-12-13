@@ -1,0 +1,5 @@
+﻿Image,Image_Path,Label,Prediction,Probability
+1,\archive\fruits-360_dataset_100x100\fruits-360\Training\Apple 6\r0_0_100.jpg,Apple,Apple,0.8
+2,\archive\fruits-360_dataset_100x100\fruits-360\Training\Apple Crimson Snow 1\0_100.jpg,Apple,Cherry,0.4
+3,\archive\fruits-360_dataset_100x100\fruits-360\Training\Pear 1\0_100.jpg,Pear,Pear,0.9
+4,\archive\fruits-360_dataset_100x100\fruits-360\Training\Banana 1\r0_0_100.jpg,Banana,Banana,0.8
